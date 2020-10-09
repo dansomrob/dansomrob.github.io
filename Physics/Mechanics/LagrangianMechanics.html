@@ -30,7 +30,7 @@
     Let's invest a new value, called the 'liveliness' of the system. This value
     can be found by:
     <br>
-    \[Liveliness = Kenetic \; Energy - Potential \; Energy\]
+    \[Liveliness = Kinetic \; Energy - Potential \; Energy\]
     <i>
       A particle with a high ‘liveliness’ will have a high velocity, but it cannot go much faster.<br>
       A particle with low ‘liveliness’ will have a high velocity, but it can go faster.<br>
@@ -72,5 +72,10 @@
     \[Action=\int_{t_0}^{t_1} 𝐿((x+h),(v+\dot{h}))\]
     Then using the Taylor Expansion we can find that:
     \[Action=\int_{t_0}^{t_1} 𝐿(x,v)+\frac{h}{1!}\frac{\partial L}{\partial x}+\frac{\dot{h}}{1!}\frac{\partial L}{\partial v}+\]
+    We can keep on going for higher powers but this isn't important. The only part which is important is the first order,
+    which will be equal to zero.
+    \[0=\int_{t_0}^{t_1} h\frac{\partial L}{\partial x}+\dot{h}\frac{\partial L}{\partial v}\]
+    \[0=\int_{t_0}^{t_1} h\frac{\partial L}{\partial x}+\frac{dh}{ht}\frac{\partial L}{\partial v}\]
+    Now we can use intergration by parts to simplify the second part of the above equation.
 </body>
 </html>
