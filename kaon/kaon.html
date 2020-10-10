@@ -3,40 +3,11 @@
 <head>
   <title>Kaon Games</title>
   <style>
-  .button {
-    border: none;
-    color: white;
-    padding: 16px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 24px;
-    margin: 4px 2px;
-    transition-duration: 0.4s;
-    cursor: pointer;
-    text-align: center;
-  }
-
-  .button1 {
-    background-color: #303030;
-    color: white;
-    border: 3px solid #303030;
-    border-radius: 12px;
-  }
-
-  .button1:hover {
-    background-color: #202020;
-    color: white;
-    border: 3px solid #202020;
-  }
-
   a:link{
-    color:white;
-    text-decoration: none;
+    color: #404040;
   }
   a:visited{
-    color:white;
-    text-decoration: none;
+    color: #303030;
     }
    h1 {
      text-align: center;
@@ -44,18 +15,33 @@
    h2 {
      text-align: center;
    }
+   .board {
+     position: absolute;
+     left: 25%;
+     top: 20%;
+     padding-top: 100px;
+     padding-bottom: 100px;
+     padding-left: 100px;
+     padding-right: 100px;
+     border: 1px #303030;
+     border-style: dotted;
+     border-radius: 20px;
+     border-width: 5px;
+     font-size: 40px;
+     text-decoration: underline;
+   }
   </style>
 </head>
 <body>
   <h1>Icarus Games</h1>
   <h2>Taking Back The Real World</h2>
-  <button class="button button1"><a href="/kaon/Board/board">Our Board Games</a></button>
-  <button class="button button1"><a href="/kaon/PnP/printnplay">Our Print&Play Games</a></button>
+  <p class="board"><a href="/kaon/Board/board">Our Board Games</a></p>
+  <p class="pnp"><a href="/kaon/PnP/printnplay">Our Print&Play Games</a></p>
   <br>
-  <button class="button button1"><a href="/kaon/why">Who We Are</a></button>
-  <button class="button button1"><a href="/kaon/why">Our Motive</a></button>
+  <p class="why"><a href="/kaon/why">Who We Are</a></p>
+  <p class="who"><a href="/kaon/why">Our Motive</a></p>
   <br>
-  <button class="button button1"><a href="/kaon/contact">Contact Us</a></button>
-  <button class="button button1"><a href="/kaon/legal">Legal Stuff</a></button>
+  <p class="contact"><a href="/kaon/contact">Contact Us</a></p>
+  <p class="legal"><a href="/kaon/legal">Legal Stuff</a></p>
 </body>
 </html>
