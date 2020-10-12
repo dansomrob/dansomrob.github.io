@@ -35,7 +35,7 @@
     </i>
     The ‘liveliness’ of a system give us a rough understanding of the current velocity and potential future velocity.
     <br>
-    \[𝐿(𝑥,𝑣)=𝑇(𝑣)−𝑉(𝑥)\]
+    \[𝐿(𝑥,𝑣)=𝑇(𝑣)−𝑉(𝑥)\tag{1.1}\]
     Where L(x,v) is the ‘liveliness’, T(v) is the kinetic energy and V(x) is the potential energy.<br><br>
     And now replace the word 'liveliness' with lagranagian and we can properly go exploring.
   </p>
@@ -45,9 +45,9 @@
   <p>
     Let's imagine a particle moving from point A to point B, if we cacluated the lagrangian at every
     time step and sum them we get the Action of the system.
-    \[\mathcal{A}=\int_{t_0}^{t_1} Ldt\]
+    \[\mathcal{A}=\int_{t_0}^{t_1} Ldt\tag{1.2}\]
     Or, written a bit nicer (and assuming \(V(x)=mgx\)):
-    \[Action=\int_{t_0}^{t_1} \frac{1}{2}mv^2 - mgx\]
+    \[Action=\int_{t_0}^{t_1} \frac{1}{2}mv^2 - mgx\tag{1.3}\]
   </p>
   <h2>
     The Principle of Least Action
@@ -84,7 +84,7 @@
     If we factorise out the h
     \[0=\int_{t_0}^{t_1} h\biggl(\frac{\partial L}{\partial x}-\frac{d}{dt}\biggl(\frac{\partial L}{\partial v}\biggr)\biggr)\]
     It's important to note that h can be any value. Therefore for the above to be true we have to assume that
-    \[\frac{d}{dt}\biggl(\frac{\partial L}{\partial v}\biggr)-\frac{\partial L}{\partial x}=0\]
+    \[\frac{d}{dt}\biggl(\frac{\partial L}{\partial v}\biggr)-\frac{\partial L}{\partial x}=0\tag{1.4}\]
     And this is the Euler-Lagrange equation. Woohoo!
   </p>
   <h2>
