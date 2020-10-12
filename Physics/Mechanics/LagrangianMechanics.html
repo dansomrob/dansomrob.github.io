@@ -14,9 +14,6 @@
     p {
       text-align: center
     }
-    li {
-      text-align: center
-    }
   </style>
 </head>
 <body>
@@ -49,7 +46,7 @@
     Let's imagine a particle moving from point A to point B, if we cacluated the lagrangian at every
     time step and sum them we get the Action of the system.
     \[\mathcal{A}=\int_{t_0}^{t_1} Ldt\]
-    Or, written a bit nicer (and assuming V(x)=mgx):
+    Or, written a bit nicer \{(and assuming V(x)=mgx):\}
     \[Action=\int_{t_0}^{t_1} \frac{1}{2}mv^2 - mgx\]
   </p>
   <h2>
@@ -87,7 +84,7 @@
     If we factorise out the h
     \[0=\int_{t_0}^{t_1} h\biggl(\frac{\partial L}{\partial x}-\frac{d}{dt}\biggl(\frac{\partial L}{\partial v}\biggr)\biggr)\]
     It's important to note that h can be any value. Therefore for the above to be true we have to assume that
-    \[\frac{d}{dt}\biggl(\frac{\partial L}{\partial v}-\frac{\partial L}{\partial x}=0\]
+    \[\frac{d}{dt}\biggl(\frac{\partial L}{\partial v}\biggr)-\frac{\partial L}{\partial x}=0\]
     And this is the Euler-Lagrange equation. Woohoo!
   </p>
 </body>
