@@ -2,6 +2,8 @@
 <html>
 <head>
   <title>Taylor Expansion</title>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
   <style>
   h1 {
     text-align: center;
@@ -11,5 +13,27 @@
 </head>
 <body>
   <h1>The Maclaurin & Taylor Expansions</h1>
+  <h2>The Maclaurin Exapansion</h2>
+  <p>
+    Many functions can be represented using a power series. Examples are:
+    \[\frac{1}{1-x}=1+x+x^2+x^3+...     for |x|\lt1\]
+    \[e^x=1+x+\frac{x^2}{2!}+\frac{x^3}{3!}+...     for all x\]
+    The Maclaurin expansion is an appromiation of the function about the point \(x=0\)
+    <br>
+    The equation of the Maclaurin expansion is
+    \[f(x)=f(0)+xf'(0)+\frac{1}{2!}x^{2}f''(0)+\frac{1}{3!}x^3f'''(0)+...\]
+    One of the great things about this expansion is that it makes it easier to intergrate sh*tty functions.
+  </p>
+  <h2>Example</h2>
+  <p>
+    \[f(x)=cosx\]
+  </p>
+  <h2>The Taylor Expansion</h2>
+  <p>
+    The taylor expansion is like the maclaurin example but for any point of x, not just arounf the y axis.
+    <br>
+    The equation for the taylor expansion is:
+    \[f(x)=f(x_0)+(x-x_0)f'(x_0)+\frac{(x-x_0)^2}{2!}f''(x_0)+\frac{(x-x_0)^3}{3!}f'''(x_0)+...\]
+  </p>
 </body>
 </html>
