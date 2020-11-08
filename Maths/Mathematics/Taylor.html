@@ -53,8 +53,43 @@
   <h3>Example 2</h3>
   <p>
     \[\text{Find the taylor expansion of }f(x)=ln(1+x)\]
+    Again, let's start by finding the first few derivatives.
+    \[f'(x)=\frac{1}{1+x}\qquad{f''(x)=-\frac{1}{(1+x)^2}}\qquad{\frac{2}{(1+x)^3}}\]
+    And now subbing in zero.
+    \[f(0)=0\qquad{f'(0)=1}\qquad{f''(0)=-1}\qquad{f'''(0)=2}\]
+    Hence:
+    \[ln(x+1)=x-\frac{1}{2}x^2+\frac{1}{3}x^3+...\]
   </p>
   <h2>When dealing with products</h2>
+  <p>
+    When dealing with an expansion of a product, first expand the two multiples separatley and then multiply.
+  </p>
+  <h3>Example 3</h3>
+  <p>
+    \[\text{Dind the maclaurin expansion of }f(x)=e^xln(1+x)\]
+    Let's begin by find the deriavtives of the first term.
+    \[f'(x)=e^x\qquad{f''(x)=e^x}\qquad{f'''(x)=e^x}\qquad{f''''(x)=e^x}\]
+    Therefore we find the maclaurin expansion in
+    \[e^x=1+x+\frac{1}{2}x^2+\frac{1}{2}x^3+...\]
+    Now lets expand the second term:
+    \[f'(x)=\frac{1}{1+x}\qquad{f''(x)=-\frac{1}{(1+x)^2}}\qquad{\frac{2}{(1+x)^3}}\]
+    Which gives a maclaurin expansion of
+    \[ln(x+1)=x-\frac{1}{2}x^2+\frac{1}{3}x^3+...\]
+    Multiplying this out gives
+    \[e^xln(1+x)=x+\frac{1}{2}x^2+\frac{1}{3}x^3+\frac{3}{40}x^5+...\]
+  </p>
+  <h3>Example 4</h3>
+  <p>
+    \[\text{Find the expansion of }(\cos x)^2}\]
+    So there are actually two ways to solve this. First we could find each cosine term and multiple.
+    Or, we could do a rearrange:
+    \[\cos {2x}=(\cos x)^2-(\sin x)^2\]
+    \[(\sin x)^2=1-(\cos x)^2\]
+    \[\cos {2x}=(\cos x)^2-1+(\cos x)^2\]
+    \[\cos {2x}=2(\cos x)^2-1\]
+    Therfore,
+    \[(\cos x)^2=\frac{1}{2}(\cos {2x}+1)\]
+  </p>
   <h2>The Radius of Convergence</h2>
   <h2>The Taylor Expansion</h2>
   <p>
