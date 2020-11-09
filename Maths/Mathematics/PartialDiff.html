@@ -1,15 +1,44 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Taylor Expansion</title>
+  <title>Partial Differentiation</title>
   <style>
   h1 {
     text-align: center;
     text-decoration: underline;
   }
+  h3 {
+    text-align: center;
+  }
+  p {
+    text-align: center;
+  }
   </style>
 </head>
 <body>
-  <h1>The Maclaurin & Taylor Expansions</h1>
+  <h1>Partial Differentiation</h1>
+  <p>
+    Lets have an equation which instead of depending upon one veriable, depends on two.
+    \[y=f(x)\qquad{z=g(x,y)}\]
+    In our first equation only x is the input which is mapped by \(f(x)\) to an output, y.<br>
+    In the second equation two imputs are mapped to a single output.<br>
+    Let's imagine the following equation.
+    \[f(x,y)=x^3+2x^2y+y^2+2x+1\]
+    We want to keep y constant and only vary x.Then find the rate of change.<br>
+    Suppose we use \(y=3\) to hold y constant.
+    \[f(x,3)=x^3+6x^2+9+2x+1=x^3+6x^2+2x+10\]
+    Now we can differentitate this function. Which easily gives us
+    \[3x^2+12x+2\]
+    We say that \(f(x,y)\) has been partially differentitated with respect to x. We would use the notation
+    \[\frac{\partial f}{\partial x}=3x^2+12x+2\]
+    Now if we were to do this at \(x=4\) we would get
+    \[\frac{\partial f}{\partial x}=3x^2+16x+2\]
+    Okay, so faw we used a number in place of y, now lets just keep y constant.
+    \[\frac{\partial f}{\partial x}=3x^2+4xy+2\]
+  </p>
+  <h3>Example 1</h3>
+  <p>
+    \[\text{find }\frac{\partial f}{\partial x}\text{ for }f(x,y)=x^3+x+y^2+y\text{ and }f'(x,y)=x^2y+xy^3\]
+  </p>
 </body>
 </html>
