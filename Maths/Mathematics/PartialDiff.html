@@ -40,8 +40,28 @@
   </p>
   <h3>Example 1</h3>
   <p>
-    \[\text{find }\frac{\partial f}{\partial x}\text{ for }f(x,y)=x^3+x+y^2+y\text{ and }f'(x,y)=x^2y+xy^3\]
-    \[\frac{\partial f}{\partial x}=3x^2+1+0+0=3x^2+1\qquad{\frac{\partial f'}{\partial x}=2xy+y^3}\]
+    \[\text{find }\frac{\partial f}{\partial x}\text{ for }f(x,y)=x^3+x+y^2+y\]
+    \[\frac{\partial f}{\partial x}=3x^2+1+0+0=3x^2+1\]
+  </p>
+  <h3>Example 2</h3>
+  <p>
+    \[\text{find }\frac{\partial f}{\partial x}\text{ for }f(x,y)=x^2y+xy^3\]
+    Note that we have to use the product rule here.
+    \[\frac{\partial }{\partial x}(2xy)=2x\times 0 + 2\times y\]
+    Which gives us
+    \[\frac{\partial f'}{\partial x}=2xy+y^3}\]
+  </p>
+  <h3>Example 3</h3>
+  <p>
+    \[f(x)=\cos {x^2y}+y^3\]
+    We have the use the chaine rule to deal with the cosine.
+    \[\text{let}g(x)=x^2y\text{ and }f(x)=\cos g\]
+    Holding y constant
+    \[g'(x)=2x\times 0 + x^2\times 1\qquad{f'(x)=-\sin {x^2y}}\]
+    Therefore
+    \[\frac{\partial }{\partial x}(\cos {x^2y})=-x^2\sin {x^2y}\]
+    This means that
+    \[\frac{\partial f'}{\partial x}=-z^2\sin {x^2y}\]
   </p>
   <h3>The Ideal Gas Law</h3>
   <p>
