@@ -43,5 +43,29 @@
     \[\text{find }\frac{\partial f}{\partial x}\text{ for }f(x,y)=x^3+x+y^2+y\text{ and }f'(x,y)=x^2y+xy^3\]
     \[\frac{\partial f}{\partial x}=3x^2+1+0+0=3x^2+1\qquad{\frac{\partial f'}{\partial x}=2xy+y^3}\]
   </p>
+  <h3>The Ideal Gas Law</h3>
+  <p>
+    \[\frac{\partial P}{\partial V}\frac{\partial V}{\partial T}\frac{\partial T}{\partial P}=-1\]
+    Let's prove it.<br>
+    Let's begin by stating the ideal gas law.
+    \[PV=nRT\]
+    I'm going to start by replacing \(nR=k\) simply to make it easier to read.
+    \[PV=kT\]
+    Therefore,
+    \[P=kTV^{-1}\qquad{V=kTP^{-1}}\qquad{T=PVk^{-1}}\]
+    Which means
+    \[\frac{\partial P}{\partial V}=-kTV^{-2}\qquad{\frac{\partial V}{\partial T}=kP^{-1}}\qquad{\frac{\partial T}{\partial P}=Vk^{-1}}\]
+    Therefore
+    \[(-k)TV^{-2}\timeskP^{-1}\timesVk^{-1}\]
+    \[=-k\timesT\timesV^{-1}\timesP^{-1}\]
+    Subbing \(k=nR\) back in, we get
+    \[-\frac{nRT}{PV}\]
+    Going back to the ideal as law,
+    \[PV=nRT\]
+    \[1=\frac{nRT}{PV}\]
+    Subbing this into our equation we find that
+    \[\frac{\partial P}{\partial V}\frac{\partial V}{\partial T}\frac{\partial T}{\partial P}=-1\]
+    Boom!
+  </p>
 </body>
 </html>
