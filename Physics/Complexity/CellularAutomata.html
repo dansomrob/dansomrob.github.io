@@ -30,9 +30,11 @@
     So let's add a time dimension (we're only going to look at one dimension automata for now).
     Lets us the following equation
     \[a_i^{t+1}=a_{i-1}^{t}+a_{i+1}^t\quad{\text{mod 2}}\]
-    Here, \(t\) is the time dimension, \(t+1\) is the row beneath \(t\).<br><br>
-    \(i\) represents the dimension of the cell, with \(t-1\) to the left and \(t+1\) to the right.<br><br>
-    Also note that \(a\) represnt the value of that cell. In this example \(a, i, t\) are all discrete.<br><br>
+    Here, \(t\) is the time dimension, \(t+1\) is the row beneath \(t\).<br>
+    \(i\) represents the dimension of the cell, with \(t-1\) to the left and \(t+1\) to the right.<br>
+    Also note that \(a\) represnt the value of that cell. In this example \(a, i, t\) are all discrete.<br>
+    But what about that weird \(\text{mod 2}\) thingy!<br>
+    It means to take the remainder after the sum has been divided by 2.
     If we start with just one 'alive' cell, this equation gives us
     <br><br><img src="/Physics/Complexity/Fig2.PNG" height="300px"><br><br>
     Now, how do we name this rule?<br><br>
