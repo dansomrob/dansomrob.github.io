@@ -7,15 +7,15 @@
   <style>
     h1 {
       text-align: center;
-      text-decoration: overline;
+      text-decoration: underline;
     }
     h2 {
       text-align: center;
-      color: #5a5a5a;
+      color: #313131;
     }
     h3 {
       text-align: center;
-      color: #5a5a5a;
+      color: #313131;
     }
     p {
       text-align: center;
@@ -31,24 +31,25 @@
   <p>
   <h3>Example 1</h3>
   <p>
-    <i>A particle is given an ipulse giving an inital velocity of \(x_0\). It then has an<br>
+    <i>A particle is given an ipulse giving an inital velocity of \(x_0\). It then has an
       acceleration given by \(a=-bv\) where \(b\) is a constant.<br>
       Obtain an expression for \(v(t)\).</i><br><br>
     So, let's begin by writing the equation for acceleration as
     \[\frac{dv}{dt}=-bv\]
     If we divide by \(v\) and multiply by \(dt\) we get
     \[\frac{dv}{v}=-bdt\]
-    Now, let's remember that
-    \[v=\int a\,dt\]
-    This gives us
+    Now, if we intergrate both sides we get
     \[\int {\frac{dv}{v}}=\int {-b\,dt}\]
     \[ln\,v=-bt\]
+    And then raising everything to the power of \(e\)
     \[v=e^{-bt}\]
-    Boom! Solved!
+    Boom! Solved! This is known as separation of variables. Kinda important.
   </p>
   <h3>Force and Potential</h3>
   <p>
+    It's important to note a key relationship between the potential of a particle and the force it experiences.
     \[F=-\frac{\partial V}{\partial x}\]
+    Beautiful.
   </p>
   <h2>Configuration Space</h2>
   <h2>Fermat's Principle</h2>
@@ -65,7 +66,9 @@
   <h2>The Euler-Lagrange Equation</h2>
   <h2>Constraints</h2>
   <h2>Examples</h2>
-  Here are a bunch of examples. What fun...
+  <p>
+    Here are a bunch of examples. What fun...
+  </p>
   <h3>Pendulumn</h3>
   <h3>The Atwood Machine</h3>
   <h3>Cyclinder's on a wall</h3>
@@ -75,7 +78,7 @@
   <h2>Special Relativity</h2>
   <h2>Modern Physics</h2>
   <p>
-    <i>the hunt for the Green Lion, the ultimate Lagrangian of the world</i>   Arthur Wightman
+    "<i>the hunt for the Green Lion, the ultimate Lagrangian of the world</i>"   Arthur Wightman
   </p>
   <!--- Old Version
   <h2>
