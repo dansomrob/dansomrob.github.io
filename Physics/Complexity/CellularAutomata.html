@@ -15,6 +15,9 @@
   p {
     text-align: center;
   }
+  ol {
+    text-align: center;
+  }
   </style>
 </head>
 <body>
@@ -49,12 +52,32 @@
     We take the binary number of the rule and the find the base-10 number from it.<br>
     This means that the rule we've seen so far is rule 90. Simple.
   </p>
-  <h2>Binomial Coefficients</h2>
+  <h2>Classes of Cellular Automata</h2>
+  <p>
+    Broadly, we can define CA into 4 major classes, they are:
+  </p>
+  <ol>
+    <li>Evolution leads to a homegeneous state.
+    <li>Evolution leads to a stable (periodic) strutures.
+    <li>Evolution leads to chaotic patterns.
+    <li>Exolution leads to complex, long-lived structures.
+  </ol>
+  <p>
+    Class 1 will eventually evolve to a state where all cells have the same value. Ther're rather boring.<br><br>
+    Class 2 will evolve
+  </p>
+  <h2>Binomial Coefficients</h>
+  <p>
+    Let's begin by looking at pascal's triangle. Or indeed the binomial coefficients found by the expansion of
+    \[(1+x)^n\]
+    If we do this (equivilent to rule 90) and then rake the \(mod 2\) we get:<br><br>
   <br><br><img src="/Physics/Complexity/BinCo.PNG" height="180px"><br><br>
+  This is the same as our results from Fig. 2<br><br>
   <h2>Density</h2>
   <br><br><img src="/Physics/Complexity/Density.PNG" height="200px"><br><br>
   <h2>Entropy</h2>
   <br><br><img src="/Physics/Complexity/Cantor.PNG" height="1000px"><br><br>
   <h2>More than 1 Dimension</h2>
+  <h2>The Ising Model</h2>
 </body>
 </html>

@@ -17,9 +17,29 @@
   </style>
 </head>
 <body>
-  <h1>
-    Lagrangian Mechanics
-  </h1>
+  <h1>Lagrangian Mechanics</h1>
+  <h2>Kinematics</h2>
+  <p>
+    Let's begin by looking at
+  <p>
+  <h3>Example 1</h3>
+  <p>
+    <i>A particle is given an ipulse giving an inital velocity of \(x_0\). It then has an<br>
+      acceleration given by \(a=-bv\) where \(b\) is a constant.<br>
+      Obtain an expression for \(v(t)\).</i><br><br>
+    So, let's begin by writing the equation for acceleration as
+    \[\frac{dv}{dt}=-bv\]
+    If we divide by \(v\) and multiply by \(dt\) we get
+    \[\frac{dv}{v}=-bdt\]
+    Now, let's remember that
+    \[v=\int a\,dt\]
+    This gives us
+    \[\int {\frac{dx}{x}}=\int {-b\,dt}\]
+    \[ln\,x=-bt\]
+    \[x=e^{-bt}\]
+    Boom! Solved!
+  </p>
+  <!--- Old Version
   <h2>
     Introduction
   </h2>
@@ -135,5 +155,6 @@
     Force and potential are linked in a really cool way.
   </p>
   \[F(x)=-\frac{dV(x)}{dx}\tag{1.5}\]
+  -->
 </body>
 </html>
