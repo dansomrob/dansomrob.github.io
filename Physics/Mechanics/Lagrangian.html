@@ -39,10 +39,6 @@
   <h2>Fundemental Concepts</h2>
   <h3>Kinematics</h3>
   <p>
-    Let's begin by looking at
-  <p>
-  <h3>Example 1</h3>
-  <p>
     <i>A particle is given an ipulse giving an inital velocity of \(x_0\). It then has an
       acceleration given by \(a=-bv\) where \(b\) is a constant.<br>
       Obtain an expression for \(v(t)\).</i><br><br>
@@ -121,6 +117,22 @@
   <h3>Pendulumn</h3>
   <p>
     <img src="/Physics/Mechanics/pendulum.PNG" height="250px">
+    We'll begin by asuming we'll be using polar cordinates for this example (the euler-lagrange equation works<br>
+    in both cartesian and polar coordinates, see later). Let's also note that \(v(x)=mgh\) and \(T(v)=\frac{1}{2}mv^{2}\)<br>
+    Therefore we need to trasform the height and velocity into polar cordinates.
+    \[h=l-lcos\theta\]
+    \[v=l\omega\]
+    As \(l\) is constant this works. Note that for if we let \(v(x)=mgh\) Then the lagrangian equals:
+    \[L=\frac{1}{2}mv^{2}-mgh\]
+    If we sub in our new equations for h and x into our lagrangian we get:
+    \[L=\frac{1}{2}m\omega^{2}l^{2}-mgl+mglcos\theta\]
+    Then using the euler-lagrange equation we find that
+    \[m\dot{\omega}l^{2}+mglsin\theta=0\]
+    Dividing by m and l
+    \[\dot{\omega}l+gsin\theta=0\]
+    Cheeky rearrange
+    \[\dot{\omega}=\frac{gsin\theta}{l}\]
+    And if we approached this from a newtonian perspective we would get the same answer.
   </p>
   <h3>The Atwood Machine</h3>
   <p>
