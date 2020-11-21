@@ -55,7 +55,7 @@
     \[ln\,v=-bt\]
     And then raising everything to the power of \(e\)
     \[v=v_0e^{-bt}\]
-    Boom! Solved! This is known as separation of variables. Kinda important.
+    Boom! Solved! This is known as <a href="/Maths/Mathematics/Int_Diff">separation of variables</a>. Kinda important.
   </p>
   <h3>Force and Potential</h3>
   <p>
@@ -84,6 +84,8 @@
   </p>
   <h2>Action</h2>
   <p>
+    Now that I've told you a new idea, how about another one?<br>
+    Mathematically definded as:
     \[\mathcal{A}=\int_{t_0}^{t_1} L\,dt\]
   </p>
   <h2>The Euler-Lagrange Equation</h2>
@@ -94,13 +96,13 @@
     Next, we need to use the calculus of variations - by adding a very small value to the position and velocity.
     \[Action=\int_{t_0}^{t_1} 𝐿((x+h),(v+\dot{h}))\]
     Then using the <a href="/Maths/Mathematics/Taylor">Taylor Expansion</a> we can find that:
-    \[Action=\int_{t_0}^{t_1} 𝐿(x,v)+\frac{h}{1!}\frac{\partial L}{\partial x}+\frac{\dot{h}}{1!}\frac{\partial L}{\partial v}+...\]
+    \[Action=\int_{t_0}^{t_1} 𝐿(x,v)+\frac{h}{1!}\frac{\partial L}{\partial x}+\frac{\dot{h}}{1!}\frac{\partial L}{\partial v}+ ...\]
     We can keep on going for higher powers but this isn't important.<br><br>
     This is because when \(h\lt\lt1\) we find that \(h^1\lt\lt h^2\) and \(h^1\) is bigger than all higher powers of \(h\)<br><br>
     Therfore, the first order terms of the expansion are equal to zero.
     \[0=\int_{t_0}^{t_1} h\frac{\partial L}{\partial x}+\dot{h}\frac{\partial L}{\partial v}\]
     \[0=\int_{t_0}^{t_1} h\frac{\partial L}{\partial x}+\frac{dh}{ht}\frac{\partial L}{\partial v}\]
-    Now we can use intergration by parts to simplify the second part of the above equation.
+    Now we can use <a href="/Maths/Mathematics/Int_Diff">intergration by parts</a> to simplify the second part of the above equation.
     \[\int_{t_0}^{t_1} \frac{dh}{dt}\frac{\partial L}{\partial v}=h\frac{\partial L}{\partial v}-\int_{t_0}^{t_1} h\frac{d}{dt}\biggl(\frac{\partial L}{\partial v}\biggr)\]
     For the path of least action, h will tend to zero. Therefore we can say that
     \[\lim_{h\to 0} h\frac{\partial L}{\partial v} = 0\]
@@ -116,12 +118,12 @@
   </p>
   <h2>Constraints</h2>
   <h2>Examples</h2>
-  <p>
-    Here are a bunch of examples. What fun...
-  </p>
   <h3>Pendulumn</h3>
+  <img src="/Physics/Mechanics/pendulum.PNG">
   <h3>The Atwood Machine</h3>
+  <img src="/Physics/Mechanics/atwood.PNG">
   <h3>Cyclinder's on a wall</h3>
+  <img src="/Physics/Mechanics/cylinder.PNG">
   <h3>Pendulum on a Cart</h3>
   <h2>Noether's Theorem</h2>
   <h2>QED</h2>
