@@ -64,6 +64,9 @@
     Beautiful.
   </p>
   <h2>Configuration Space</h2>
+  <p>
+    When exploring lagrangian mechanics we are in configuration space, not physical space.<br><br>
+    But what is configuration space?<br><br>
   <h2>Fermat's Principle</h2>
   <p>
     Fermat's priciple states that<br><br>
@@ -92,8 +95,9 @@
     \[Action=\int_{t_0}^{t_1} 𝐿((x+h),(v+\dot{h}))\]
     Then using the <a href="/Maths/Mathematics/Taylor">Taylor Expansion</a> we can find that:
     \[Action=\int_{t_0}^{t_1} 𝐿(x,v)+\frac{h}{1!}\frac{\partial L}{\partial x}+\frac{\dot{h}}{1!}\frac{\partial L}{\partial v}+...\]
-    We can keep on going for higher powers but this isn't important. The only part which is important is the first order,
-    which will be equal to zero.
+    We can keep on going for higher powers but this isn't important.<br><br>
+    This is because when \(h\lt\lt1\) we find that \(h^2\lt\lth^3\)<br><br>
+    Therfore, the first order terms of the expansion are equal to zero.
     \[0=\int_{t_0}^{t_1} h\frac{\partial L}{\partial x}+\dot{h}\frac{\partial L}{\partial v}\]
     \[0=\int_{t_0}^{t_1} h\frac{\partial L}{\partial x}+\frac{dh}{ht}\frac{\partial L}{\partial v}\]
     Now we can use intergration by parts to simplify the second part of the above equation.
@@ -107,7 +111,7 @@
     If we factorise out the h
     \[0=\int_{t_0}^{t_1} h\biggl(\frac{\partial L}{\partial x}-\frac{d}{dt}\biggl(\frac{\partial L}{\partial v}\biggr)\biggr)\]
     It's important to note that h can be any value. Therefore for the above to be true we have to assume that
-    \[\frac{d}{dt}\biggl(\frac{\partial L}{\partial v}\biggr)-\frac{\partial L}{\partial x}=0\tag{1.4}\]
+    \[\frac{d}{dt}\biggl(\frac{\partial L}{\partial v}\biggr)-\frac{\partial L}{\partial x}=0\]
     And this is the Euler-Lagrange equation. Woohoo!
   </p>
   <h2>Constraints</h2>
