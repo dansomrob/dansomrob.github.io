@@ -39,7 +39,7 @@
   <h2>Fundemental Concepts</h2>
   <h3>Kinematics</h3>
   <p>
-    <i>A particle is given an ipulse giving an inital velocity of \(x_0\). It then has an
+    <i>A particle is given an impulse giving an inital velocity of \(x_0\). It then has an
     acceleration given by \(a=-bv\) where \(b\) is a constant.<br>
     Obtain an expression for \(v(t)\).</i><br><br>
     So, let's begin by writing the equation for acceleration as
@@ -164,18 +164,34 @@
       is smaller for the true path than a false path.</i>
     </p>
   <h2>Noether's Theorem</h2>
+  <h2>Gauge Transformations</h2>
   <h2>QED</h2>
   <p>
     "<i>The priciple which you take as the basis for your proof, namley that Nature always acts
       by using the simplest and shortest paths,<br>is merely a moral, and not a physical one. It
       is not, and cannot be,<br>the cause of any effect in Nature.</i>" Cureau de la Chambre<br><br>
     However, this idea changed in 1948 due to Richard Feynman.<br><br>
-    The idea was that a particle can take every path through configuration space, but the probability of that path changes.
+    The idea was that a particle can take every path through configuration space, but the <strong>probability
+    amplitude</strong> of taking that path varies according to
     \[\psi=e^{i\frac{\mathcal{A}}{\hbar}}\]
+    Where \(\mathcal{A}\) is the action of that specific path.<br><br>
+    Therfore, to calculate the probability amplitude of going from point A to point B we sum all of the probabilities.
     \[\psi_{A\to B}=\sum_{i=1}^{N}e^{i\frac{\mathcal{A}}{\hbar}}\]
+    However there are normally infinatly many ways a particle can get from A to B.<br>
+    Therefore we have to replace our sum with an intergal.
+    \[\psi_{A\to B}=\int_{A\to B}Dq(t)e^{i\frac{\mathcal{A}}{\hbar}}\]
+    The expression on the right side is known as the <strong>path intergral</strong>
+    Now to calculate the total probabilty of getting from A to B, sqaure this value.
     \[P(A\to B)=|\psi_{A\to B}|^2\]
+    Now, this still doesn't make much sense, let's look at euler identity.<br><br>
+    <img src="/Physics/Mechanics/euler.PNG" height="250px"><br><br>
+    We can see that \(\psi_{A\to B}\) lies on a unit circle.<br><br>
+    However different paths will have different actions meaning the 'vector' for \(psi_{A\to b}\) will point in different directions.<br><br>
+    Therefore when we sum these 'vector'
   </p>
   <h3>The Classical Limit</h3>
+  <p>
+
   <h2>Special Relativity</h2>
   <h2>Modern Physics</h2>
   <p>
