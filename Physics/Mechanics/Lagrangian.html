@@ -139,11 +139,21 @@
   <h3>The Atwood Machine</h3>
   <p>
     <img src="/Physics/Mechanics/atwood.PNG" height="250px"><br><br>
-    Note that both \(m_1\) and \(m_2\) have the same velocity.
+    Note that both \(m_1\) and \(m_2\) have the same velocity, this means the kinetic energy is
     \[T=\frac{1}{2}m_1v^2+\frac{1}{2}m_2v^2\]
+    and the potential energy is
     \[V=m_1gx_1+m_2gx_2\]
+    However, as \(x_1+m_2=l\) we get
     \[V=m_1gx_1+m_2gl-m_2gx_1\]
+    Then our lagrange is
     \[L=\frac{1}{2}m_1v^2+\frac{1}{2}m_2v^2-m_1gx_1-m_2gl+m_2gx_1\]
+    Now finding the euler-lagrange equation is
+    \[\frac{d}{dt}\biggl(\frac{\partial L}{\partial v}\biggr)=m_1a+m_2a\]
+    \[\frac{\partial L}{\partial x}=-m_1g+m_2g\]
+    \[m_1a+m_2a=-m_1g+m_2g\]
+    Cheeky rearrange.
+    \[a(m_1+m_2)=g(m_2-m_1)\]
+    \[a=\frac{m_2-m_1}{m_2+m_1}g\]
   </p>
   <h3>Cyclinder's on a wall</h3>
   <p>
