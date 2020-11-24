@@ -33,6 +33,8 @@
     \[\frac{\partial y}{\partial x}=f(x)\]
     What we have to learn is how to solve them. Both equations i've shown so far are first order, we'll look at them first.<br><br>
     Let's beging by looking at a nice example, nuclear decay.
+  </p>
+  <h3>Example 1</h3>
     \[\frac{dN}{dt}=\lambda N\]
     In A-Level we substitute \(\frac{dN}{dt}\) as activity \(A\).<br><br>
     Now lets solve this equation. We'll begin by using separtion of variables.
@@ -40,7 +42,7 @@
     \[\frac{dN}{N}=\lambda \,dt\]
     Now if we intergrate both sides
     \[\int {\frac{dN}{N}}=\int {\lambda\,dt}\]
-    \[ln(N)=\lambda t+c\]
+    \[ln|N|=\lambda t+c\]
     Then raising everything to \(e\)
     \[N=e^{\lambda t}e^c\]
     Now if we say \(e^c=N_0\) then we get
@@ -49,6 +51,14 @@
     <img src=/Maths/Mathematics/nuclear_decay.PNG height="250px"><br><br>
     So, now we done an example, lets explore this area properly.
   </p>
+  <h3>Example 2</h3>
+  <p>
+    Let's look at an example from Strogatz's Nonlinear Dynamics book.
+    \[\frac{dx}{dt}=\sin x\]
+    If we rearrange we get
+    \[dt=\frac{dx}{\sin x}\]
+    \[dt=\frac{1}{\sinx}dx\]
+    \[dt=\cosec xdx\]
   <h2>Separation of Variables</h2>
 </body>
 </html>
