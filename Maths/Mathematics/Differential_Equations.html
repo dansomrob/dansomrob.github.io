@@ -25,6 +25,29 @@
   </style>
 </head>
 <body>
-  <h1>Differentation Equations</h1>
+  <h1>Differentatial Equations</h1>
+  <p>
+    Differential equations are found in the form
+    \[\frac{dy}{dx}=f(x)\]
+    This is an <strong>ordinary differential equation</strong>. A </strong>partial differental equation</strong> looks like
+    \[\[\frac{\partial y}{\partial x}=f(x)\]
+    What we have to learn is how to solve them. Both equations i've shown so far are first order, we'll look at them first.<br><br>
+    Let's beging by looking at a nice example, nuclear decay.
+    \[\frac{dN}{dt}=\lambda N\]
+    In A-Level we substitute \(\frac{dN}{dt}\) as activity \(A\).<br><br>
+    Now lets solve this equation. We'll begin by using separtion of variables.
+    \[dN=\lambda N,dt\]
+    \[\frac{dN}{N}=\lambda \,dt\]
+    Now if we intergrate both sides
+    \[ln(N)=\lambda t+c\]
+    Then raising everything to \(e\)
+    \[N=e^{\lambda t}e^c\]
+    Now if we say \(e^c=N_0\) then we get
+    \[N=N_0e^{-\lambda t}\]
+    Graphically this equation is<br><br>
+    <img src=/Maths/Mathematics/nuclear_decay.PNG height="250px"><br><br>
+    So, now we done an example, lets explore this area properly.
+  </p>
+  <h2>Separation of Variables</h2>
 </body>
 </html>
