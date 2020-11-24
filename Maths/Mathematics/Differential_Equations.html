@@ -32,10 +32,23 @@
     This is an <strong>ordinary differential equation</strong>. A <strong>partial differental equation</strong> looks like
     \[\frac{\partial y}{\partial x}=f(x)\]
     What we have to learn is how to solve them. Both equations i've shown so far are first order, we'll look at them first.<br><br>
-    Let's beging by looking at a nice example, nuclear decay.
+    \[\frac{dy}{dx}=f(y)g(x)\]
+    \[\frac{1}{f(y)}\,dy=g(x)\,dx\]
+    \[\int {\frac{1}{f(y)}\,dy}=\int {g(x)\,dx}\]
   </p>
   <h3>Example 1</h3>
   <p>
+    \[\frac{dy}{dx}=x\]
+    Lets separate the variables first.
+    \[dy=x\,dx\]
+    Then intergrate.
+    \[\int {dy}=\int {d\,dx}\]
+    Which gives
+    \[y=\frac{1}{2}x^2 + c\]
+  </p>
+  <h3>Example 2</h3>
+  <p>
+    Now lets look at nuclear decay equations.
     \[\frac{dN}{dt}=\lambda N\]
     In A-Level we substitute \(\frac{dN}{dt}\) as activity \(A\).<br><br>
     Now lets solve this equation. We'll begin by using separtion of variables.
@@ -52,7 +65,7 @@
     <img src=/Maths/Mathematics/nuclear_decay.PNG height="250px"><br><br>
     So, now we done an example, lets explore this area properly.
   </p>
-  <h3>Example 2</h3>
+  <h3>Example 3</h3>
   <p>
     Let's look at an example from Strogatz's Nonlinear Dynamics book.
     \[\frac{dx}{dt}=\sin x\]
