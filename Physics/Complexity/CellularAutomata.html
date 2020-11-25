@@ -40,9 +40,9 @@
     So let's add a time dimension (we're only going to look at one dimension automata for now).<br><br>
     Lets us the following equation
     \[a_i^{t+1}=a_{i-1}^{t}+a_{i+1}^t\quad{\text{mod 2}}\]
-    Here, \(t\) is the time dimension, \(t+1\) is the row beneath \(t\).<br><br>
-    \(i\) represents the dimension of the cell, with \(t-1\) to the left and \(t+1\) to the right.<br><br>
-    Also note that \(a\) represnt the value of that cell. In this example \(a, i, t\) are all discrete.<br><br>
+    Here, \(t\) is the time dimension, \(t+1\) is the row beneath \(t\).<br>
+    \(i\) represents the dimension of the cell, with \(t-1\) to the left and \(t+1\) to the right.<br>
+    Also note that \(a\) represnt the value of that cell. In this example \(a, i, t\) are all discrete.<br>
     But what about that weird \(\text{mod 2}\) thingy!<br><br>
     It means to take the remainder after the sum has been divided by 2 - it's known as <i>modulo 2</i>.<br><br>
     If we start with just one 'alive' cell, this equation gives us
@@ -77,13 +77,19 @@
   <p>
     We can use the density of cellular automata to find any subtle paterns the rules generate.<br><br>
     Let's define the density by the formulea
-    \[
+    \[\]
     <br><br><img src="/Physics/Complexity/Density.PNG" height="300px"><br><br>
   </p>
   <h2>Entropy</h2>
   <p>
+    The entropy of a system can be found by
+    \[S=\sum_i p_i\log_2 p_i\]
+    where \(p_i\) is the probabilty of state \(i\)
+    </body>
     <br><br><img src="/Physics/Complexity/Cantor.PNG" height="750px"><br><br>
   </p>
+  <h3>Reversability</h3>
+  Triangles
   <h2>More than 1 Dimension</h2>
   <h2>The Ising Model</h2>
   <h2>Galaxy Modelling</h2>
