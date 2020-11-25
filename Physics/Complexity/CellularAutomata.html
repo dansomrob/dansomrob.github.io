@@ -31,7 +31,8 @@
   </p>
     <h2>Introduction</h2><br>
   <p>
-    Cellular automata are simple mathematical models where we have a bunch of cells which can exist in \(k\) states.<br><br>
+    Cellular automata are discrete models of <a href="/Maths/Mathematics/Diff_Eqn">differential equations</a>
+    where we have a bunch of cells which can exist in \(k\) states.<br><br>
     Let's begin by looking at cellular automata when \(k=2\), here taking either a value of 0 or 1.<br><br>
     We can view 0 as being dead (white cell) and 1 and being alive (black cell).
     <br><br><img src="/Physics/Complexity/Fig1.PNG" height="200px"><br><br>
@@ -43,7 +44,7 @@
     \(i\) represents the dimension of the cell, with \(t-1\) to the left and \(t+1\) to the right.<br><br>
     Also note that \(a\) represnt the value of that cell. In this example \(a, i, t\) are all discrete.<br><br>
     But what about that weird \(\text{mod 2}\) thingy!<br><br>
-    It means to take the remainder after the sum has been divided by 2.<br><br>
+    It means to take the remainder after the sum has been divided by 2 - it's known as <i>modulo 2</i>.<br><br>
     If we start with just one 'alive' cell, this equation gives us
     <br><br><img src="/Physics/Complexity/Fig2.PNG" height="300px"><br><br>
     Now, how do we name this rule?<br><br>
@@ -54,31 +55,37 @@
   </p>
   <h2>Classes of Cellular Automata</h2>
   <p>
-    Broadly, we can define CA into 4 major classes, they are:<br><br>
+    Broadly, we can define cellular automata into 4 major classes, they are:<br><br>
     -Evolution leads to a homegeneous state.<br>
     -Evolution leads to a stable (periodic) strutures.<br>
     -Evolution leads to chaotic patterns.<br>
     -Exolution leads to complex, long-lived structures.<br><br>
     Class 1 will eventually evolve to a state where all cells have the same value. Ther're rather boring.<br><br>
-    Class 2 will evolve
+    Class 2 will evolve into repeating patterns with a time period \(t\).<br><br>
+    Class 3 will evolve ... <br><br>
+    Class 4 will evolve ...<br><br>
   </p>
   <h2>Binomial Coefficients</h2>
   <p>
     Let's begin by looking at pascal's triangle. Or indeed the binomial coefficients found by the expansion of
     \[(1+x)^n\]
-    If we do this (equivilent to rule 90) and then rake the \(mod 2\) we get:<br><br>
+    If we do this ( which is equivilent to rule 90) and then take the \(modulo 2\) we get:<br><br>
     <br><br><img src="/Physics/Complexity/BinCo.PNG" height="180px"><br><br>
-    This is the same as our results from Fig. 2<br><br>
+    This is the same as our results from rule 90.<br><br>
   </p>
   <h2>Density</h2>
   <p>
-    <br><br><img src="/Physics/Complexity/Density.PNG" height="200px"><br><br>
+    We can use the density of cellular automata to find any subtle paterns the rules generate.<br><br>
+    Let's define the density by the formulea
+    \[
+    <br><br><img src="/Physics/Complexity/Density.PNG" height="300px"><br><br>
   </p>
   <h2>Entropy</h2>
   <p>
-    <br><br><img src="/Physics/Complexity/Cantor.PNG" height="1000px"><br><br>
+    <br><br><img src="/Physics/Complexity/Cantor.PNG" height="750px"><br><br>
   </p>
   <h2>More than 1 Dimension</h2>
   <h2>The Ising Model</h2>
+  <h2>Galaxy Modelling</h2>
 </body>
 </html>
