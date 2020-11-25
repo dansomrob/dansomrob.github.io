@@ -77,12 +77,12 @@
   <p>
     We can use the density \(p_{\tau}\) of cellular automata to find any subtle paterns the rules generate.<br>
     Initally lets simple look at the the desnity of value 1.
-    \[p_1=\frac{#_1(R)}{#_0(R)+#_1(R)}\]
-    where \(#_1(R)\) is the number of sites with value 1 and \(#_0(R)\) the number of sites with value 0.<br>
+    \[p_1=\frac{\#_1(R)}{\#_0(R)+\#_1(R)}\]
+    where \(\#_1(R)\) is the number of sites with value 1 and \(\#_0(R)\) the number of sites with value 0.<br>
     We can also use
-    \[p_1=\frac{#_1(R)}{\log_2 R}\]
+    \[p_1=\frac{\#_1(R)}{\log_2 R}\]
     For example when \(R=182\) we find that
-    \[p_1=\frac{#_1(182)}{#_0(182)+#_1(182)}\]
+    \[p_1=\frac{\#_1(182)}{\#_0(182)+\#_1(182)}\]
     \[p_1=\frac{5}{3+5\]
     \[p_1=\frac{5}{8}\]
     This allows us to read a string of values at time \(\tau\) and find the density.<br>
