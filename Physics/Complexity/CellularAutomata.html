@@ -86,7 +86,10 @@
     This allows us to read a string of values at time \(\tau\) and find the density.<br>
     We can then plot a density-time graph which shows us
     <br><br><img src="/Physics/Complexity/Density.PNG" height="300px"><br><br>
-    In this graph the inital densities were 0.2 in random inital conditions.
+    In this graph the inital densities were 0.2 in random inital conditions.<br><br>
+    We reach an equalibrium density when
+    \[\frac{dp_{\tau}}{d\tau}=0\]
+    Note that although this is a good indictor of class 1 we cannot say for definite.
   </p>
   <h2>Entropy</h2>
   <p>
@@ -94,9 +97,19 @@
     to form into more ordered states.
     The entropy of a system can be found by
     \[S=\sum_i p_i\log_2 p_i\]
-    where \(p_i\) is the probabilty of state \(i\)
-    </body>
-    <br><br><img src="/Physics/Complexity/Cantor.PNG" height="750px"><br><br>
+    where \(p_i\) is the probabilty of state \(i\)<br><br>
+    For a finite cellular automata of \(N\) cells we know that there are \(2^N\) possible states.
+  </p>
+  <h3>Cantor Sets<h3>
+  <p>
+    Lets look at \(N=10\) cellular automata. We know that there are \(2^{10}=1024\) possible states.<br>
+    Turing evolution we can have reversible laws and irreversible laws. So far all the laws are irreversible<br>
+    (see later for further exploration). We know this as mutliple states can evolve into the same state.<br>
+    This makes the law irreversible as we cannot tell which state we came from. There will also be some states
+    which are impossible to obtain.<br><br>
+    If we look at this diagramatically we can make cantor sets with all 1024 states.<br>
+    We can then remove the states which are impossible to obtain. Plot this againt time.
+  <br><br><img src="/Physics/Complexity/Cantor.PNG" height="750px"><br><br>
   </p>
   <h3>Reversability</h3>
   <h2>More than 1 Dimension</h2>
