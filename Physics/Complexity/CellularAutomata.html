@@ -12,6 +12,9 @@
   h2 {
     text-align: center;
   }
+  h3 {
+    text-align: center;
+  }
   p {
     text-align: center;
   }
@@ -115,10 +118,16 @@
   <p>
     At the beginning I talked about how cellular automata are dialogs of differential equations.<br>
     We can analogise first order differential equations and cellular automta that only look at the<br>
-    previous time step. As a result these are irreversible. Second order differential equations<br>
-    can be viewed as cellular automata which look at the previous two time steps.
+    previous time step. As a result these are irreversible. They have the form
     \[a_i^{t+1}=f(a_{i}^t)\]
+    Second order differential equations can be viewed as cellular automata which look at the previous two<br>
+    time steps. They have the form
     \[a_i^{t+1}=f(a_{i}^t+a_{i}^{t-1})\]
+    This is similar to the second order DE: the wave equation
+    \[\frac{\partial^2 v}{\partial t^2}=c^2\frac{\partial^2 u}{\partial x^2}\]
+    This is reversible.
+    The first order DE is analagous to the heat equation
+    \[\frac{\partial u}{\partial t}=\Delta u\]
   <h2>More than 1 Dimension</h2>
   <h2>The Ising Model</h2>
   <h2>Galaxy Modelling</h2>
