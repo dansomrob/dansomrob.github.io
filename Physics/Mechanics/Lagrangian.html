@@ -80,43 +80,43 @@
     Let's look at a good example of this - Snell's Law.<br><br>
   <h2>The Lagrangian</h2>
   <p>
-    \[L(x,v)=T(v)-V(x)\]
+    \[\mathcal{L}(x,v)=T(v)-V(x)\]
     Where \(T(v)\) is the kinetic energy and \(v(x)\) is the potential energy.<br>
     Therefore, for a one-dimensional partical when \(V(x)=mgx\) is
-    \[L(x,v)=\frac{1}{2}mv^2-mgx\]
+    \[\mathcal{L}(x,v)=\frac{1}{2}mv^2-mgx\]
   </p>
   <h2>Action</h2>
   <p>
     Now that I've told you a new idea, how about another one?<br>
     Mathematically definded as:
-    \[\mathcal{A}=\int_{t_0}^{t_1} L\,dt\]
+    \[\mathcal{A}=\int_{t_0}^{t_1} \mathcal{L}\,dt\]
   </p>
   <h2>The Euler-Lagrange Equation</h2>
   <p>
     Let's derive the priciple of least action.<br>
     Let's start from the equation for action.
-    \[\mathcal{A}=\int_{t_0}^{t_1} L\,dt\]
+    \[\mathcal{A}=\int_{t_0}^{t_1} \mathcal{L}\,dt\]
     Next, we need to use the calculus of variations - by adding a very small value to the position and velocity.
     \[Action=\int_{t_0}^{t_1} 𝐿(x+h,v+\dot{h})\]
     Then using the <a href="/Maths/Mathematics/Taylor">Taylor Expansion</a> we can find that:
-    \[Action=\int_{t_0}^{t_1} 𝐿(x,v)+\frac{h}{1!}\frac{\partial L}{\partial x}+\frac{\dot{h}}{1!}\frac{\partial L}{\partial v}+ ...\]
+    \[Action=\int_{t_0}^{t_1} 𝐿(x,v)+\frac{h}{1!}\frac{\partial \mathcal{L}}{\partial x}+\frac{\dot{h}}{1!}\frac{\partial \mathcal{L}}{\partial v}+ ...\]
     We can keep on going for higher powers but this isn't important.<br><br>
     This is because when \(h\lt\lt1\) we find that \(h^1\lt\lt h^2\) and \(h^1\) is bigger than all higher powers of \(h\)<br><br>
     Therfore, the first order terms of the expansion are equal to zero.
-    \[0=\int_{t_0}^{t_1} h\frac{\partial L}{\partial x}+\dot{h}\frac{\partial L}{\partial v}\]
-    \[0=\int_{t_0}^{t_1} h\frac{\partial L}{\partial x}+\frac{dh}{ht}\frac{\partial L}{\partial v}\]
+    \[0=\int_{t_0}^{t_1} h\frac{\partial \mathcal{L}}{\partial x}+\dot{h}\frac{\partial \mathcal{L}}{\partial v}\]
+    \[0=\int_{t_0}^{t_1} h\frac{\partial \mathcal{L}}{\partial x}+\frac{dh}{ht}\frac{\partial \mathcal{L}}{\partial v}\]
     Now we can use <a href="/Maths/Mathematics/Int_Diff">intergration by parts</a> to simplify the second part of the above equation.
-    \[\int_{t_0}^{t_1} \frac{dh}{dt}\frac{\partial L}{\partial v}=\biggl[h\frac{\partial L}{\partial v}\biggl]_{t_0}^{t_1}-\int_{t_0}^{t_1} h\frac{d}{dt}\biggl(\frac{\partial L}{\partial v}\biggr)\]
+    \[\int_{t_0}^{t_1} \frac{dh}{dt}\frac{\partial \mathcal{L}}{\partial v}=\biggl[h\frac{\partial \mathcal{L}}{\partial v}\biggl]_{t_0}^{t_1}-\int_{t_0}^{t_1} h\frac{d}{dt}\biggl(\frac{\partial \mathcal{L}}{\partial v}\biggr)\]
     For the path of least action we can assume the boundry conditions are fixed. Therefore we can say that
-    \[\biggl[h\frac{\partial L}{\partial v}\biggl]_{t_0}^{t_1} = 0\]
+    \[\biggl[h\frac{\partial \mathcal{L}}{\partial v}\biggl]_{t_0}^{t_1} = 0\]
     This means our intergration by parts is equal to
-    \[\int_{t_0}^{t_1} \frac{dh}{dt}\frac{\partial L}{\partial v}=-\int_{t_0}^{t_1} h\frac{d}{dt}\biggl(\frac{\partial L}{\partial v}\biggr)\]
+    \[\int_{t_0}^{t_1} \frac{dh}{dt}\frac{\partial \mathcal{L}}{\partial v}=-\int_{t_0}^{t_1} h\frac{d}{dt}\biggl(\frac{\partial \mathcal{L}}{\partial v}\biggr)\]
     Subbing this we find that
-    \[0=\int_{t_0}^{t_1} h\frac{\partial L}{\partial x}-\int_{t_0}^{t_1} h\frac{d}{dt}\biggl(\frac{\partial L}{\partial v}\biggr)\]
+    \[0=\int_{t_0}^{t_1} h\frac{\partial \mathcal{L}}{\partial x}-\int_{t_0}^{t_1} h\frac{d}{dt}\biggl(\frac{\partial \mathcal{L}}{\partial v}\biggr)\]
     If we factorise out the h
-    \[0=\int_{t_0}^{t_1} h\biggl(\frac{\partial L}{\partial x}-\frac{d}{dt}\biggl(\frac{\partial L}{\partial v}\biggr)\biggr)\]
+    \[0=\int_{t_0}^{t_1} h\biggl(\frac{\partial \mathcal{L}}{\partial x}-\frac{d}{dt}\biggl(\frac{\partial \mathcal{L}}{\partial v}\biggr)\biggr)\]
     It's important to note that h can be any value. Therefore for the above to be true we have to assume that
-    \[\frac{d}{dt}\biggl(\frac{\partial L}{\partial v}\biggr)-\frac{\partial L}{\partial x}=0\]
+    \[\frac{d}{dt}\biggl(\frac{\partial \mathcal{L}}{\partial v}\biggr)-\frac{\partial \mathcal{L}}{\partial x}=0\]
     And this is the Euler-Lagrange equation. Woohoo!
   </p>
   <h2>Constraints</h2>
@@ -131,9 +131,9 @@
     \[h=l-lcos\theta\]
     \[v=l\omega\]
     As \(l\) is constant this works. Note that for if we let \(v(x)=mgh\) Then the lagrangian equals:
-    \[L=\frac{1}{2}mv^{2}-mgh\]
+    \[\mathcal{L}=\frac{1}{2}mv^{2}-mgh\]
     If we sub in our new equations for h and x into our lagrangian we get:
-    \[L=\frac{1}{2}m\omega^{2}l^{2}-mgl+mglcos\theta\]
+    \[\mathcal{L}=\frac{1}{2}m\omega^{2}l^{2}-mgl+mglcos\theta\]
     Then using the euler-lagrange equation we find that
     \[m\dot{\omega}l^{2}+mglsin\theta=0\]
     Dividing by m and l
@@ -152,10 +152,10 @@
     However, as \(x_1+m_2=l\) we get
     \[V=m_1gx_1+m_2gl-m_2gx_1\]
     Then our lagrange is
-    \[L=\frac{1}{2}m_1v^2+\frac{1}{2}m_2v^2-m_1gx_1-m_2gl+m_2gx_1\]
+    \[\mathcal{L}=\frac{1}{2}m_1v^2+\frac{1}{2}m_2v^2-m_1gx_1-m_2gl+m_2gx_1\]
     Now finding the euler-lagrange equation is
-    \[\frac{d}{dt}\biggl(\frac{\partial L}{\partial v}\biggr)=m_1a+m_2a\]
-    \[\frac{\partial L}{\partial x}=-m_1g+m_2g\]
+    \[\frac{d}{dt}\biggl(\frac{\partial \mathcal{L}}{\partial v}\biggr)=m_1a+m_2a\]
+    \[\frac{\partial \mathcal{L}}{\partial x}=-m_1g+m_2g\]
     \[m_1a+m_2a=-m_1g+m_2g\]
     Cheeky rearrange.
     \[a(m_1+m_2)=g(m_2-m_1)\]
@@ -210,7 +210,7 @@
   <h3>The Classical Limit</h3>
   <p>
     In the quantum realm, the action for a path is rather small. However in the classical realm the<br>
-    action is rather big. This is because the lagrangian \(L=\frac{1}{2}mv^2-V(x)\) depends on mass.<br><br>
+    action is rather big. This is because the lagrangian \(\mathcal{L}=\frac{1}{2}mv^2-V(x)\) depends on mass.<br><br>
     Therefor, when we have a large mass, the difference is \(\psi\) between close paths will be very large<br>
     and so we will get destructive interference. However, in the quantum realm the difference in action<br>
     between two close paths is quite similar to we get constructive interference.<br><br>
