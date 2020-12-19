@@ -73,7 +73,14 @@
     We get
     \[\dot z(t)=A\cdot z(t)\]
     Which is a first order equation!<br>
-    This is called <i>state augmentation</i> and allows us to simplfy some harder differential equations.
+    This is called <i>state augmentation</i> and allows us to simplfy some harder differential equations.<br><br>
+    Looking at the second order equation
+    \[\ddot y = By\]
+    we can define \(z(t)\) as
+    \[A=\begin{bmatrix}\dot y(t) \\ y(t)\end{bmatrix}\]
+    Which gives us
+    \dot z(t) = \[A=\begin{bmatrix}0&B\\I&0\end{bmatrix}\]
+    A recast of a higher oder equation as a first order equation.
   </p>
   <h2>Linear Systems</h2>
   <h2>Bifurcations</h2>
