@@ -88,54 +88,22 @@
   </p>
   <h2>Linear Systems</h2>
   <p>
-    Although almost now societal, ecological or natural systems are linear, however we need to develop<br>
-    some important tool before we can attack nonlinear systems. Let's go.
+    A linear system has equations which take the form
+    \[\dot x = ax + by \qquad{\dot y = cx + dy}\]
+    Which can be written using matrix notation as
+    \[\dot x = Ax\]
+    Where
+    \[x=\begin{bmatrix}x\\y\end{bmatrix}\qquad{A=\begin{bmatrix}a&b\\c&d\end{bmatrix}}\]
+    Note that for all linear system \(x=0\) is always a basin.
   </p>
-  <h3>Superposition</h3>
+  <h3>Coupled Systems</h3>
   <p>
-    For a linear system we find that<br><br>
-    <i>Average(System Responce(Input))=System Responce(Average(Input))</i><br><br>
-    Now this doen't hold for most systems (eg. take a \(x^2\) graph) - but is true for all<br>
-    linear systems.
+    A coupled system is when \(x\) depends on \(x\) and \(y\), an uncoupled system would only depend on \(x\).
+    \[x=5x-2y\]
+    This is a coupled equation. The following equation is not
+    \[x=6x\]
   </p>
-  <h3>Eigendecomposition</h3>
-  <p>
-    Many people learn the mechanics of finding eigenvalues and eigenvectors but not much more than that.<br>
-    Eigendecomposition takes a system and finds the <i>modes</i> of the system. Modes are unchanging<br>
-    parts of the system - eg saddle points.<br><br>
-    If we look at the eigenequation
-    \[Av=\lambda v\]
-    where \(A\) is a matrix, \(\lambda\) is the eigenvalue and \(v\) is the eigenvector.<br><br>
-    If we apply a transformation \(A\) to a vector \(v\) and the direction of the vector
-    is the same before and after the transformation,<br> we call it an <i>eigenvector</i>.
-    This eigenvector thougth may be scaled by a scalar (eg. twice as long \(\lambda=2\))<br>
-    which is called the <i>eigenvalue</i>.
-  </p>
-  <h4>Quick Derivation</h4>
-  <p>
-    We're now to mathmatically show that when \(z(t)\) point along an eigenvector we get<br>
-    a scaled version of that vector with no rotation.<br><br>
-    A systems follows the equations
-    \[\dot z(t) = Az(t)\]
-    When \(t=0\) let's say that \(z(0)\) point in the direction defined by vector \(v\)
-    \[z(0)=v\]
-    \[\dot z(0)=Az(0)=Av=\lambda v\]
-    Notice that at time \(t\), \(z(t)\) continues to point in the same direction as \(v\). Therefore
-    \[z(t)=\alpha (t)v\qquad{\dot z(t)=\dot {\alpha}(t)v}\]
-    Where \(\alpha\) is a scalar. Note that \(\alpha \neq \lambda\)
-    \[\dot {\alpha}(t)v=\dot z(t)=Az(t)=\alpha (t)Av=\alpha (t)\lambda v\]
-    \[\dot {\alpha}(t)v=\alpha (t)\lambda v\]
-    \[\dot {\alpha}(t)=\alpha (t)\lambda \]
-    A simple <a href="/Maths/Diff_Eqn">differential equation</a>
-    \[\alpha (t)=e^{\lambda t}\]
-    \[z(t)=e^{\lambda t}v\]
-    We can see that if \(z(t)\) point in the direction of an eigenvector \(v\) we just get a<br>
-    a scaled version of that vector by value \(e^{\lambda t}\) with no rotation.
-
-    It's important to note that for all <a href="/Maths/Matrices">diagonizable</a> linear systems we only have two behavours.<br>
-    \(\Rightarrow\)For Real\(\lambda\) < 0    we have <i>stable</i> dynamics.<br>
-    \(\Rightarrow\)For Real\(\lambda\) > 0    we have <i>unstable</i> dynamics.
-  </p>
+  <h3>Example</h3>
   <h3>Non-Normal Linear Systems</h3>
   <h2>Bifurcations</h2>
   <h3>Slip n Stick : Hopf Bifurcations</h3>
