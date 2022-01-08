@@ -8,7 +8,7 @@ My name is Daniel Somerville Roberts, I am currently studying for a MSci in Phys
 >I hope nobody reads this - your wasting our time if you are. Dan
 
 ### Curriculum Vitae
-* **August 2021** Graduated from secondary school with top marks in all subjects.
+* **August 2021** Graduated from secondary school with top grades in all subjects.
 * **November 2021** Began undergraduate studies in physics at Imperial College.
 
 ### Current Projects
