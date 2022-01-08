@@ -2,26 +2,23 @@
 
 ***Year 1***
 - Mechanics & Relativity
-  - Functions:
-  - Linear Algebra: *vectors, matrices,*
-  - Classical Mechanics: *Newton's laws,*
-  - Relativity:
+>Functions, Linear Algebra, Classical Mechanics, Special Relativity
+
 - Oscillations & Waves
-  - Complex Analysis: *complex numbers,*
-  - Oscillations & Waves
-  - Basic Electronics:
-  - Fourier Analysis:
-  - Optics:
+>Complex Analysis, Oscillations & Waves, Basic Electronics, Fourier Analysis, Optics
+
 - Electricity & Magnetism
-  - Vector Fields:
-  - Electrostatics:
-  - Magnetostatics:
+>Vector Fields, Electrostatics, Magnetostatics
+
 - Mathematical Analysis:
-  - to fill...
+>Pure maths course
+
 - Lab & Computing
-  - Lab: *intro cycle (planck's constant, speed of sound, torsion pendulum), main experiments (capacitance, diffraction, lenses, pendulum, interferometer, resonance, spectrometer, faraday's law)*
-  - Computing: *python (numpy, matplotlib, scipy), basic data analysis*
-  - Y1 Project:
+> intro cycle (planck's constant, speed of sound, torsion pendulum), main experiments (capacitance, diffraction, lenses, pendulum, interferometer, resonance, spectrometer, faraday's law)
+
+>Computing: *python (numpy, matplotlib, scipy), basic data analysis*
+
+> Y1 Project:
 
 ***Year 2***
 - Thermal Physics:
