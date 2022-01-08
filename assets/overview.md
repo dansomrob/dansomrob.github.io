@@ -16,9 +16,9 @@ title: Degree Overview
   - Special Relativity (Summer):
 - Oscillations & Waves
   - Complex Analysis (Autumn):\
-  *complex numbers,*
+  *complex numbers, triangle inequality, derivatives, de moivre's theorem, roots of complex numbers, complex powers, cauchy product, hyperbolic functions, derivatives, cauchy-reimann equations, linear 1st order ODEs, separation of variables, integrating factors, linear 2nd order ODEs, wronskian evaluation, inhomogeneous case*
   - Oscillations & Waves (Autumn):\
-  **
+  *SHM (spring & pendulum), hooke's law, phasors, damped harmonic motion, light & heavy damping, critical damping, forced oscillations, steady-state & transient solutions, resonance, circuits, coupled pendulums, normal modes, wave equation, wavenumber, superposition, waves in 3D, energy of a travelling wave, power, interference, diffraction, standing waves, wave-packets*
   - Basic Electronics (Spring):
   - Fourier Analysis (Spring):
   - Optics (Spring):
