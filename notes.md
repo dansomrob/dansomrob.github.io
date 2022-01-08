@@ -17,26 +17,26 @@ title: Revision Notes
   - Solid State Physics
   - Particle Physics
   - Advanced Classical Physics
-**Textbook Notes**
-**Overview of an Imperial Physics Degree**
+<br>**Textbook Notes**
+<br>**Overview of an Imperial Physics Degree**
 - Year 1
   - Term 1
-  *Mechanics & Relativity*
+  <br>*Mechanics & Relativity*
     - Functions:
     - Linear Algebra:
     - Classical Mechanics:
-  \ *Oscillations & Waves*
+  <br>*Oscillations & Waves*
     - Complex Analysis:
     - Oscillations & Waves:
-  \ *Lab & Computing*
+  <br>*Lab & Computing*
   - Term 2
-  \ *Electricity & Magnetism*
+  <br>*Electricity & Magnetism*
     - Vector Fields:
     - Electrostatics:
     - Magnetostatics:
-  \ *Oscillations & Waves*
+  <br>*Oscillations & Waves*
     - Basic Electronics:
     - Fourier Analysis:
     - Optics:
-  \ *Lab*
+  <br>*Lab*
     - Term 3
