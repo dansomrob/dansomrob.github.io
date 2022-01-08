@@ -2,7 +2,7 @@
 layout: page
 title: Revision Notes
 ---
-**Imperial Physics**
+**Imperial Physics**[Overview]({{ site.url}}/assets/overview)
 - Year 1
   - [Mechanics & Relativity]({{ site.url }}/assets/M&R)
   - [Oscillations & Waves]({{ site.url }}/assets/O&W)
@@ -18,25 +18,3 @@ title: Revision Notes
   - Particle Physics
   - Advanced Classical Physics
 <br>**Textbook Notes**
-<br>**Overview of an Imperial Physics Degree**
-- Year 1
-  - Term 1
-    - *Mechanics & Relativity*
-      - Functions:
-      - Linear Algebra:
-      - Classical Mechanics:
-    - *Oscillations & Waves*
-      - Complex Analysis:
-      - Oscillations & Waves:
-    - *Lab & Computing*
-  - Term 2
-    - *Electricity & Magnetism*
-      - Vector Fields:
-      - Electrostatics:
-      - Magnetostatics:
-    - *Oscillations & Waves*
-      - Basic Electronics:
-      - Fourier Analysis:
-      - Optics:
-    - *Lab*
-  - Term 3
