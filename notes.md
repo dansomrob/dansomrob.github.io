@@ -18,3 +18,23 @@ title: Revision Notes
     - Particle Physics
     - Advanced Classical Physics
 - **Textbook Notes**
+- **Overview of an Imperial Physics Degree**
+  - Year 1
+    - Term 1
+    *Mechanics & Relativity*
+      - Functions:
+      - Linear Algebra:
+      - Classical Mechanics:
+    *Oscillations & Waves*
+      - Complex Analysis:
+      - Oscillations & Waves:
+    *Lab & Computing*
+    - Term 2
+    *Electricity & Magnetism*
+    - Vector Fields:
+    - Electrostatics:
+    - Magnetostatics:
+    *Oscillations & Waves*
+    - Basic Electronics:
+    - Fourier Analysis:
+    - Optics:
