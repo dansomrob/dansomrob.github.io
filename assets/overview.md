@@ -3,10 +3,10 @@
 - Term 1
   - *Mechanics & Relativity*
     - Functions:
-    - Linear Algebra:
-    - Classical Mechanics:
+    - Linear Algebra: vectors - matrices -  
+    - Classical Mechanics: Newton's laws -
   - *Oscillations & Waves*
-    - Complex Analysis:
+    - Complex Analysis: complex numbers -
     - Oscillations & Waves:
   - *Lab & Computing*
 - Term 2
@@ -20,3 +20,8 @@
     - Optics:
   - *Lab*
 - Term 3
+  - *Mechanics & Relativity*
+    - Relativity
+***Year 2***
+***Year 3***
+***Year 4***
