@@ -1,40 +1,37 @@
 **Overview of an Imperial Physics Degree**
 
 ***Year 1***
-- Term 1
-  - Mechanics & Relativity
-    - Functions:
-    - Linear Algebra: *vectors, matrices,*
-    - Classical Mechanics: *Newton's laws,*
+- Mechanics & Relativity
+  - Functions:
+  - Linear Algebra: *vectors, matrices,*
+  - Classical Mechanics: *Newton's laws,*
+  - Relativity:
+- Oscillations & Waves
+  - Complex Analysis: *complex numbers,*
   - Oscillations & Waves
-    - Complex Analysis: *complex numbers,*
-    - Oscillations & Waves:
-  - Lab & Computing
-- Term 2
-  - Electricity & Magnetism
-    - Vector Fields:
-    - Electrostatics:
-    - Magnetostatics:
-  - Oscillations & Waves
-    - Basic Electronics:
-    - Fourier Analysis:
-    - Optics:
-  - Lab
-- Term 3
-  - Mechanics & Relativity
-    - Relativity
+  - Basic Electronics:
+  - Fourier Analysis:
+  - Optics:
+- Electricity & Magnetism
+  - Vector Fields:
+  - Electrostatics:
+  - Magnetostatics:
+- Mathematical Analysis
+  -
+- Lab & Computing
+  - Lab: *intro cycle (planck's constant, speed of sound, torsion pendulum), main experiments (capacitance, diffraction, lenses, pendulum, interferometer, resonance, spectrometer, faraday's law)*
+  - Computing: *python (numpy, matplotlib, scipy), basic data analysis*
+  - Y1 Project:
 
 ***Year 2***
-- Term 1
-- Term 2
-- Term 3
+- Thermal Physics:
+- Electromagnetism:
+- Quantum Mechanics:
+- Mathematical Methods:
 
 ***Year 3***
-- Term 1
-- Term 2
-- Term 3
+- Solid State Physics:
+- Particle Physics:
+- Advanced Classical Physics:
 
 ***Year 4***
-- Term 1
-- Term 2
-- Term 3
