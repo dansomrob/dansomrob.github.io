@@ -21,22 +21,22 @@ title: Revision Notes
 <br>**Overview of an Imperial Physics Degree**
 - Year 1
   - Term 1
-  <br>*Mechanics & Relativity*
-    - Functions:
-    - Linear Algebra:
-    - Classical Mechanics:
-  <br>*Oscillations & Waves*
-    - Complex Analysis:
-    - Oscillations & Waves:
-  <br>*Lab & Computing*
+    - *Mechanics & Relativity*
+      - Functions:
+      - Linear Algebra:
+      - Classical Mechanics:
+    - *Oscillations & Waves*
+      - Complex Analysis:
+      - Oscillations & Waves:
+    - *Lab & Computing*
   - Term 2
-  <br>*Electricity & Magnetism*
-    - Vector Fields:
-    - Electrostatics:
-    - Magnetostatics:
-  <br>*Oscillations & Waves*
-    - Basic Electronics:
-    - Fourier Analysis:
-    - Optics:
-  <br>*Lab*
-    - Term 3
+    - *Electricity & Magnetism*
+      - Vector Fields:
+      - Electrostatics:
+      - Magnetostatics:
+    - *Oscillations & Waves*
+      - Basic Electronics:
+      - Fourier Analysis:
+      - Optics:
+    - *Lab*
+  - Term 3
