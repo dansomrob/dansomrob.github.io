@@ -26,24 +26,23 @@ title: Degree Overview
   - Vector Fields (Spring):
   - Electrostatics (Spring):
   - Magnetostatics (Spring):
-- Mathematical Analysis:
+- Mathematical Analysis (Spring):
   - to fill...
 - Lab & Computing
   - Lab:\
-  *introductory experiments (planck's constant, speed of sound, torsion pendulum),\
-   main experiments (capacitance, diffraction, lenses, pendulum, interferometer, resonance, spectrometer, faraday's law)*
+  *introductory experiments (planck's constant, speed of sound, torsion pendulum), main experiments (capacitance, diffraction, lenses, pendulum, interferometer, resonance, spectrometer, faraday's law)*
   - Computing: *python (numpy, matplotlib, scipy)*
   - Y1 Project:
 
 ***Year 2***
-- Thermal Physics:
-- Electromagnetism:
-- Quantum Mechanics:
-- Mathematical Methods:
+- Thermal Physics
+- Electromagnetism
+- Quantum Mechanics
+- Mathematical Methods
 
 ***Year 3***
-- Solid State Physics:
-- Particle Physics:
-- Advanced Classical Physics:
+- Solid State Physics
+- Particle Physics
+- Advanced Classical Physics
 
 ***Year 4***
