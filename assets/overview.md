@@ -36,13 +36,29 @@ title: Degree Overview
 
 ***Year 2***
 - Thermal Physics
+  - Structure of Matter
+  - Thermodynamics
+  - Statistical Physics
 - Electromagnetism
+  - Differential equations
+  - Electromagnetism
 - Quantum Mechanics
 - Mathematical Methods
+  - Calculus of Variations
+  - Complex Variables
+  - Fourier Transforms
+  - Tensors
+  - Numerical Methods
 
 ***Year 3***
 - Solid State Physics
 - Particle Physics
+  - Particle Physics
+  - Nuclear Physics
 - Advanced Classical Physics
+  - Rigid Bodies
+  - Lagrangian Mechanics
+  - Hamiltonian Mechanics
+  - Electromagnetism
 
 ***Year 4***
