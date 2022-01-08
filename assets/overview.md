@@ -30,7 +30,8 @@ title: Degree Overview
   - to fill...
 - Lab & Computing
   - Lab:\
-  *intro cycle (planck's constant, speed of sound, torsion pendulum), main experiments (capacitance, diffraction, lenses, pendulum, interferometer, resonance, spectrometer, faraday's law)*
+  *introductory experiments (planck's constant, speed of sound, torsion pendulum),\
+   main experiments (capacitance, diffraction, lenses, pendulum, interferometer, resonance, spectrometer, faraday's law)*
   - Computing: *python (numpy, matplotlib, scipy)*
   - Y1 Project:
 
