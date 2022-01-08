@@ -1,0 +1,33 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+
+# Setup
+title:            DJSR
+tagline:          Personal Website
+description:      'My personal website containing all things useless.'
+url:              http://dansomrob.com
+baseurl:          /
+domain: dansomrob.github.io
+repository: dansomrob/dansomrob.github.io
+
+author:
+  name:           'Daniel Somerville Roberts'
+  url:            https://twitter.com/dansomrob.com
+
+paginate:         5
+paginate_path: "/page:num/"
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+  - github-pages
+
+# Custom vars
+version:          1.1.0
+
+github:
+  repo:           https://github.com/dansomrob
