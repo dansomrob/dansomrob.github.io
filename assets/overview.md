@@ -7,25 +7,25 @@ title: Degree Overview
 
 ***Year 1***
 - Mechanics & Relativity
-  - Functions (Term 1):\
+  - Functions (Autumn):\
   *AM>GM, Cauchy-Schwarz, Odd & Even functions, inverse functions, hyperbolic functions, limits, derivatives, integrals, polars, volumes/surfaces of revolutions, partial differentiation, total differential, stationary points, taylor series, infinite sums, convergence tests, radius of convergence*
-  - Linear Algebra (Term 1):\
+  - Linear Algebra (Autumn):\
   *vectors, dot product, cross product, triple product, vector derivatives, matrices, determinants, cramer's rule, gaussian elimination, basis sets, gram-schmidt process, homogeneous equations, linearity, eigenvectors & eigenvalues, similarity transform, normal modes*
-  - Classical Mechanics (Term 1):\
+  - Classical Mechanics (Autumn):\
   *Newton's laws, work-energy theorem, potential energy, conservative forces, centre-of-mass, reduced mass, 1D collisions, 3D collisions, scattering, rocket equation, time-dependant vectors, angular momentum, torque, kepler's laws, orbital energy, orbits, rigid-bodies, moment of inertia, gyroscopes, rotating frames*
-  - Special Relativity (Term 3):
+  - Special Relativity (Summer):
 - Oscillations & Waves
-  - Complex Analysis (Term 1):\
+  - Complex Analysis (Autumn):\
   *complex numbers,*
-  - Oscillations & Waves (Term 1):\
+  - Oscillations & Waves (Autumn):\
   **
-  - Basic Electronics (Term 2):
-  - Fourier Analysis (Term 2):
-  - Optics (Term 2):
+  - Basic Electronics (Spring):
+  - Fourier Analysis (Spring):
+  - Optics (Spring):
 - Electricity & Magnetism
-  - Vector Fields (Term 2):
-  - Electrostatics (Term 2):
-  - Magnetostatics (Term 2):
+  - Vector Fields (Spring):
+  - Electrostatics (Spring):
+  - Magnetostatics (Spring):
 - Mathematical Analysis:
   - to fill...
 - Lab & Computing
