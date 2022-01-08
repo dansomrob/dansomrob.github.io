@@ -16,8 +16,8 @@
   - Vector Fields:
   - Electrostatics:
   - Magnetostatics:
-- Mathematical Analysis
-  -
+- Mathematical Analysis:
+  - to fill...
 - Lab & Computing
   - Lab: *intro cycle (planck's constant, speed of sound, torsion pendulum), main experiments (capacitance, diffraction, lenses, pendulum, interferometer, resonance, spectrometer, faraday's law)*
   - Computing: *python (numpy, matplotlib, scipy), basic data analysis*
