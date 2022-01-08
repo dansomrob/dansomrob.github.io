@@ -10,5 +10,3 @@ title: Great Books
 **Articles**
 - [The Newton Hypothesis](https://nintil.com/newton-hypothesis)
 - [US Science Leadership?](https://nintil.com/us-science-leadership)
-
-[home]({{ site.url }})
