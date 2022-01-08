@@ -1,5 +1,5 @@
-**Overview of an Imperial Physics Degree**
-*Year 1*
+**Overview of an Imperial Physics Degree**\
+***Year 1***
 - Term 1
   - *Mechanics & Relativity*
     - Functions:
