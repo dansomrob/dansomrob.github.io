@@ -4,17 +4,10 @@ title: Revision Notes
 ---
 - **Imperial Physics** ([Course Overview]({{ site.url}}/assets/overview))
   - Year 1
-    - Mechanics & Relativity
-      - [Classical Mechanics]({{ site.url }}/assets/CM/index)
-      - [Calculus]({{ site.url }}/assets/Calc/index)
-      - [Linear Algebra]({{ site.url }}/assets/LA/index)
-    - Oscillations & Waves
-      - [Complex Analysis]({{ site.url }}/assets/CA/index)
-      - [Oscillations & Waves]({{ site.url }}/assets/OW/index)
-      - [Basic Electronics]({{ site.url }}/assets/BE/index)
-    - Electricity & Magnetism
-      - Vector Calculus
-    - Mathematical Analysis
+    - [Mechanics & Relativity]({{ site.url }}/assets/Y1/M&R/index)
+    - [Oscillations & Waves]({{ site.url }}/assets/Y1/O&W/index)
+    - [Electricity & Magnetism]({{ site.url }}/assets/Y1/E&M/index)
+    - [Mathematical Analysis]({{ site.url }}/assets/Y1/MA/index)
   - Year 2
     - Thermal Physics
     - Electromagnetism
