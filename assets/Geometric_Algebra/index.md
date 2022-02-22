@@ -3,12 +3,12 @@ layout: default
 title: Geometric Algebra
 ---
 
-**Geometric Algebra & Differential Geometry**
-> Lectures 1 - 5 & 10 - 13 are based of Keenan Crane's fantatsic Discrete Differential Geometry course. Chapters 3 & 4 of [his notes]({{ site.url }}/assets/Geometric_Algebra/DDG.pdf) are fabulous.
+<h1>Geometric Algebra & Differential Geometry</h1>
 
-> Lectures 6 - 9 are based on Chris Doran & Anthony Lasenby's textbook [Geometric Algebra for Physicists]( {{site.url}}/assets/Geometric_Algebra/GAforPhysics.pdf)
+<h2>Part 1 - Geometric Algebra</h2>
+> Lectures 1 - 5 are based of Keenan Crane's fantatsic Discrete Differential Geometry course. Chapters 3 & 4 of [his course notes]({{ site.url }}/assets/Geometric_Algebra/DDG.pdf) are fabulous.
 
-<h1>Part 1 - Geometric Algebra</h1>
+> Lectures 6 & 7 are based on Chris Doran & Anthony Lasenby's textbook [Geometric Algebra for Physicists]( {{site.url}}/assets/Geometric_Algebra/GAforPhysics.pdf)
 
 The first part of this course looks at geometric algebra. We begin looking at the outer product, before moving onto k-forms. This extends to the exterior derivative and Stokes' law. We then combine the inner and outer product to get the geometric product. Finally looking at rotations.
   - [Lecture 1 - Exterior Algebra]({{ site.url }}/assets/Geometric_Algebra/Lectures/L1.pdf)
