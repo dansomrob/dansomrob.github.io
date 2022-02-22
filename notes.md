@@ -17,4 +17,4 @@ title: Revision Notes
     - Solid State Physics
     - Particle Physics
     - Advanced Classical Physics
-- **Textbook Notes**
+- **[Geometric Algebra]({{ site.url}}/assets/Geometric_Algebra/index)**

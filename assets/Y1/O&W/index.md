@@ -51,4 +51,7 @@ title: Classical Mechanics
   - [Lecture 7 - ]({{ site.url }}/assets/Y1/O&W/F/L7.pdf)
   - [Lecture 8 - ]({{ site.url }}/assets/Y1/O&W/F/L8.pdf)
   - [Lecture 9 - ]({{ site.url }}/assets/Y1/O&W/F/L9.pdf)
+  - [Lecture 10 - ]({{ site.url }}/assets/Y1/O&W/F/L10.pdf)
+  - [Lecture 11 - ]({{ site.url }}/assets/Y1/O&W/F/L11.pdf)
+  - [Lecture 12 - ]({{ site.url }}/assets/Y1/O&W/F/L12.pdf)
 - Optics (Spring)
