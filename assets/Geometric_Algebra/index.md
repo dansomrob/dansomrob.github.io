@@ -25,13 +25,13 @@ I've decided to teach myself Geometric Algebra & Differential Geometry focusing 
 
   Geometric product, multi-vectors, complex numbers
   - [Lecture 7 - Reflections & Rotations]({{ site.url }}/assets/Geometric_Algebra/Lectures/L7.pdf)
-  
+
   rotors,
-- *Part 2 - Applications to Physics*
+<h2>Part 2 - Applications to Physics</h2>
 We apply geometric algebra to classical physics, redefining ideas such as angular momentum. Moving onto a single Maxwell equation instead of four.
   - [Lecture 8 - Classical Mechanics]({{ site.url }}/assets/Geometric_Algebra/Lectures/L8.pdf)
   - [Lecture 9 - Electrodynamics]({{ site.url }}/assets/Geometric_Algebra/Lectures/L9.pdf)
-- *Part 3 - Differential Geometry*
+<h2>Part 3 - Differential Geometry</h2>
   - [Lecture 10 - Smooth Curves]({{ site.url }}/assets/Geometric_Algebra/Lectures/L10.pdf)
   - [Lecture 11 - Smooth Surfaces 1]({{ site.url }}/assets/Geometric_Algebra/Lectures/L11.pdf)
   - [Lecture 12 - Smooth Surfaces 2]({{ site.url }}/assets/Geometric_Algebra/Lectures/L12.pdf)
