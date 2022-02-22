@@ -4,9 +4,9 @@ title: Geometric Algebra
 ---
 
 **Geometric Algebra & Differential Geometry**
-> Lectures 1 - 5 & 10 - 13 are based of Keenan Crane's fantatsic Discrete Differential Geometry course. Chapters 3 & 4 of [his notes]({{ site.url }}/assests/Geometric_Algebra/DDG.pdf) are fabulous.
+> Lectures 1 - 5 & 10 - 13 are based of Keenan Crane's fantatsic Discrete Differential Geometry course. Chapters 3 & 4 of [his notes]({{ site.url }}/assets/Geometric_Algebra/DDG.pdf) are fabulous.
 
-> Lectures 6 - 9 are based on Chris Doran & Anthony Lasenby's textbook [Geometric Algebra for Physisits]( {{site.url}}/assets/Geometric_Algebra/GAforPhysics)
+> Lectures 6 - 9 are based on Chris Doran & Anthony Lasenby's textbook [Geometric Algebra for Physicist]( {{site.url}}/assets/Geometric_Algebra/GAforPhysics.pdf)
 
 - *Part 1 - Geometric Algebra*
   - [Lecture 1 - Exterior Algebra]({{ site.url }}/assets/Geometric_Algebra/Lectures/L1.pdf)
