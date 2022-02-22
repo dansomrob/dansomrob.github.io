@@ -10,24 +10,18 @@ I've decided to teach myself Geometric Algebra & Differential Geometry focusing 
 
 > Lectures 6 & 7 are based on chapter 2 of Chris Doran & Anthony Lasenby's textbook [Geometric Algebra for Physicists]( {{site.url}}/assets/Geometric_Algebra/GAforPhysics.pdf).
 
-[Lecture 1 - Exterior Algebra]({{ site.url }}/assets/Geometric_Algebra/Lectures/L1.pdf)
-  - Wedge product, Hodge star, k-vectors
-
-[Lecture 2 - k-Forms]({{ site.url }}/assets/Geometric_Algebra/Lectures/L2.pdf)
-  - Co-vectors, k-forms
-
-[Lecture 3 - Differential Forms]({{ site.url }}/assets/Geometric_Algebra/Lectures/L3.pdf)
-
-[Lecture 4 - Exterior Derivative]({{ site.url }}/assets/Geometric_Algebra/Lectures/L4.pdf)
-  - redefining grad, div & curl
-
-[Lecture 5 - Integration]({{ site.url }}/assets/Geometric_Algebra/Lectures/L5.pdf)
-
-[Lecture 6 - Geometric Algebra]({{ site.url }}/assets/Geometric_Algebra/Lectures/L6.pdf)
-  - Geometric product, multi-vectors, complex numbers
-
-[Lecture 7 - Reflections & Rotations]({{ site.url }}/assets/Geometric_Algebra/Lectures/L7.pdf)
-  - rotors,
+  - [Lecture 1 - Exterior Algebra]({{ site.url }}/assets/Geometric_Algebra/Lectures/L1.pdf)
+    - Wedge product, Hodge star, k-vectors
+  - [Lecture 2 - k-Forms]({{ site.url }}/assets/Geometric_Algebra/Lectures/L2.pdf)
+    - Co-vectors, k-forms
+  - [Lecture 3 - Differential Forms]({{ site.url }}/assets/Geometric_Algebra/Lectures/L3.pdf)
+  - [Lecture 4 - Exterior Derivative]({{ site.url }}/assets/Geometric_Algebra/Lectures/L4.pdf)
+    - redefining grad, div & curl
+  - [Lecture 5 - Integration]({{ site.url }}/assets/Geometric_Algebra/Lectures/L5.pdf)
+  - [Lecture 6 - Geometric Algebra]({{ site.url }}/assets/Geometric_Algebra/Lectures/L6.pdf)
+    - Geometric product, multi-vectors, complex numbers
+  - [Lecture 7 - Reflections & Rotations]({{ site.url }}/assets/Geometric_Algebra/Lectures/L7.pdf)
+    - rotors,
 <h2>Part 2 - Applications to Physics</h2>
 We apply geometric algebra to classical physics, redefining ideas such as angular momentum. Moving onto a single Maxwell equation instead of four.
 [Lecture 8 - Classical Mechanics]({{ site.url }}/assets/Geometric_Algebra/Lectures/L8.pdf)
