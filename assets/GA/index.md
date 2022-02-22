@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Revision Notes
+title: Geometric Algebra
 ---
 
 **Geometric Algebra & Differential Geometry**
-I have decided to self-learn geometric algebra, for the purposes of physics.
+
 - *Part 1 - Geometric Algebra*
   - [Lecture 1 - Exterior Algebra]({{ site.url }}/assets/GA/Lectures/L1.pdf)
   - [Lecture 2 - k-Forms]({{ site.url }}/assets/GA/Lectures/L2.pdf)
