@@ -8,7 +8,8 @@ title: Geometric Algebra
 
 > Lectures 6 - 9 are based on Chris Doran & Anthony Lasenby's textbook [Geometric Algebra for Physicists]( {{site.url}}/assets/Geometric_Algebra/GAforPhysics.pdf)
 
-- *Part 1 - Geometric Algebra*
+<h1>Part 1 - Geometric Algebra</h1>
+
 The first part of this course looks at geometric algebra. We begin looking at the outer product, before moving onto k-forms. This extends to the exterior derivative and Stokes' law. We then combine the inner and outer product to get the geometric product. Finally looking at rotations.
   - [Lecture 1 - Exterior Algebra]({{ site.url }}/assets/Geometric_Algebra/Lectures/L1.pdf)
   Wedge product, Hodge star, k-vectors
