@@ -8,14 +8,12 @@ My name is Daniel Somerville Roberts, I am currently studying for a MSci in Phys
 >I hope nobody reads this - your wasting our time if you are. Dan
 
 ### Curriculum Vitae
-* **August 2021** Graduated from secondary school with top grades in all subjects.
 * **November 2021** Began undergraduate studies in physics at Imperial College.
+* **August 2021** Graduated from secondary school with top grades in all subjects.
 
 ### Current Projects
 * [This Website]({{ site.url }})
   * For personal use - why are you here?
-* [CADE](https://github.com/dansomrob/CADE): Cellular Automata & Differential Equations
-  * A collection of Jupyter Notebooks, on GitHub.
 * Classics
   * Strangely, I've decided to try to learn some Latin and Ancient Greek. Am following CLC and Taylor's books.
 
