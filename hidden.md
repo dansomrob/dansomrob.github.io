@@ -5,6 +5,7 @@ title: Hidden Journal
 <h1>My first two terms at Imperial</h1>
 
 <h3>Looking Back: School</h3>
+*Easter 2022*
 
 Looking back at my school time, I was very privileged. I grew up in the nicest part of the North East and went to the best school in the North East.
 
@@ -57,6 +58,7 @@ I also always enjoyed the training sessions - and often could feel myself improv
 At the end of the term I began doing wall-ball quite a bit. I also want to start skipping to improve footwork. Also strength.
 
 <h1>2021 - A Year in Review</h1>
+*New Year 2021*
 - Achieved top grades in all subjects at secondary school.
 - Began UG studies at Imperial.
 - Started playing lacrosse and learning jitsu.
