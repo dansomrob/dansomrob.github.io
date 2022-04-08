@@ -2,27 +2,27 @@
 layout: page
 title: Great Books
 ---
-<h2>Books That Made Me<h2>
+<h2>Books That Made Me</h2>
 
-These are a few books who ideas are central to my working philosophy. Some notes are also inculded. Other great books are included below.
+These are a few books who ideas are central to my working philosophy. Some notes are also included. Other great books are included below.
 
-<h3>Critical Transitions in Nature and Society</h3>
+<h4>Critical Transitions in Nature and Society</h4>
 
 [](https://www.goodreads.com/book/show/6748069-critical-transitions-in-nature-and-society) by *Marten Scheffer*
 
-<h3>AlphaBrain</h3>
+<h4>AlphaBrain</h4>
 
 [AlphaBrain](https://www.goodreads.com/book/show/34566011-alphabrain) by *Stephen Duneier*
 
-<h3>The Selfish Gene</h3>
+<h4>The Selfish Gene</h4>
 
 [The Selfish Gene](https://www.goodreads.com/book/show/61535.The_Selfish_Gene) by *Richard Dawkins*
 
-<h3>Chimpanzee Politics</h3>
+<h4>Chimpanzee Politics</h4>
 
 [Chimpanzee Politics](https://www.goodreads.com/book/show/389530.Chimpanzee_Politics) by *Frans de Waal*
 
-<h3>Zero to One</h3>
+<h4>Zero to One</h4>
 
 [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one) by *Peter Thiel*
 
@@ -33,4 +33,4 @@ These are a few books who ideas are central to my working philosophy. Some notes
 **Articles**
 - [The Newton Hypothesis](https://nintil.com/newton-hypothesis)
 - [US Science Leadership?](https://nintil.com/us-science-leadership)
-- [History of Gamma Function]() by *Philip Davis*
+- [History of Gamma Function]( {{site.url }}/assets/textbooks/HistoryGammaFunction_Davis.pdf) by *Philip Davis*
