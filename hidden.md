@@ -4,7 +4,7 @@ title: Hidden Journal
 ---
 <h1>My first two terms at Imperial</h1>
 
-<h4>Looking Back: School</h4>
+<h3>Looking Back: School</h3>
 
 Looking back at my school time, I was very privileged. I grew up in the nicest part of the North East and went to the best school in the North East.
 
@@ -16,13 +16,13 @@ I've also come to the conclusion that I did lots of extra-curricular activities 
 
 I'm glad of the time in school. I think it was reasonably well used.
 
-<h4>Winter Term</h4>
+<h3>Winter Term</h3>
 
 A good term.
 
 One change is that I've stopped climbing. I've taken up new sports (jitsu and lacrosse). I'm not a massive fan of the people who do climbing. Agi and Waldo have also stopped climbing. It is no longer cool.
 
-<h4>Spring Term</h4>
+<h3>Spring Term</h3>
 
 This term was bad! There are two major failures this term: diet and sociability.
 
@@ -32,7 +32,7 @@ My diet this term has been poor. I have been eating mostly ultra-processed foods
 
 less social
 
-<h4>The Future: Summer Term</h4>
+<h3>The Future: Summer Term</h3>
 
 I've begun thinking heavily about the teleology of university. This means instead of thinking in terms of cause and effect we now think of the **purpose** of what were doing.
 
