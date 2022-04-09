@@ -37,18 +37,6 @@ less social
 
 <h3>The Future: Summer Term</h3>
 
->students from less privileged families are more likely to believe that extracurricular activities are irrelevant to their job prospects because what employers really care about are grades, tangible skills, and prior employment experiences and invest their time accordingly.
-
->Ironically, working-class students’ focus on academics (rather than social and extracurricular activities) while in school constrains, not expands, the types of jobs and incomes available to them when they graduate.
-
->Paper Tigers by Wesley Yang
->https://nymag.com/news/features/asian-americans-2011-5/
->>Mao began to study the racially inflected social hierarchies at Stuyvesant, where, in a survey undertaken by the student newspaper this year, slightly more than half of the respondents reported that their friends came from within their own ethnic group. His attention focused on the mostly white (and Manhattan-dwelling) group whose members seemed able to manage the crushing workload while still remaining socially active. “The general gist of most high-school movies is that the pretty cheerleader gets with the big dumb jock, and the nerd is left to bide his time in loneliness. But at some point in the future,” he says, “the nerd is going to rule the world, and the dumb jock is going to work in a carwash.
->
->>“At Stuy, it’s completely different: If you looked at the pinnacle, the girls and the guys are not only good-looking and socially affable, they also get the best grades and star in the school plays and win election to student government. It all converges at the top. It’s like training for high society. It was jarring for us Chinese kids. You got the sense that you had to study hard, but it wasn’t enough.”
->
->>Mao was becoming clued in to the fact that there was another hierarchy behind the official one that explained why others were getting what he never had—“a high-school sweetheart” figured prominently on this list—and that this mysterious hierarchy was going to determine what happened to him in life. “You realize there are things you really don’t understand about courtship or just acting in a certain way. Things that somehow come naturally to people who go to school in the suburbs and have parents who are culturally assimilated.” I pressed him for specifics, and he mentioned that he had visited his white girlfriend’s parents’ house the past Christmas, where the family had “sat around cooking together and playing Scrabble.” This ordinary vision of suburban-American domesticity lingered with Mao: Here, at last, was the setting in which all that implicit knowledge “about social norms and propriety” had been transmitted. There was no cram school that taught these lessons.
-
 I've begun thinking heavily about the teleology of university. This means instead of thinking in terms of cause and effect we now think of the **purpose** of what were doing.
 
 Ultimately there are two major life goals: family and work. I want to avoid setting goals as every time I've tried this I've failed. Instead I want to focus on systems and build these into my identity.
