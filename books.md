@@ -7,7 +7,7 @@ title: Great Books
 These are a few books who ideas are central to my working philosophy. Some notes are also included. Other great books are included below.
 
 <h4>Critical Transitions in Nature and Society</h4> by *Marten Scheffer*
-- 
+-
 
 <h4>AlphaBrain</h4> by *Stephen Duneier*
 
@@ -18,6 +18,7 @@ These are a few books who ideas are central to my working philosophy. Some notes
 <h4>Chimpanzee Politics</h4> by *Frans de Waal*
 - Signalling Theory
 - russian kgb uniforms to british soldiers
+- zero sum game, unlike modern life (positive sum)
 
 <h4>Zero to One</h4> by *Peter Thiel*
 
