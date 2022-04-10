@@ -9,16 +9,14 @@ My name is Daniel Somerville Roberts, I am currently studying for a MSci in Phys
 
 ### Curriculum Vitae
 * **November 2021** Began undergraduate studies in physics at Imperial College.
-* **August 2021** Graduated from secondary school with top grades in all subjects.
+* **August 2021** Graduated from secondary school.
 
 ### Current Projects
 * [This Website]({{ site.url }})
   * For personal use - why are you here?
-* Classics
-  * Strangely, I've decided to try to learn some Latin and Ancient Greek. Am following CLC and Taylor's books.
 
 ### Past Projects
 * 4x4inschools
   * During our first year we won nationals, second year lost badly.
 * 3 Minutes to Freedom
-  * Designed a card game.
+  * Designed a card game with a good friend.
