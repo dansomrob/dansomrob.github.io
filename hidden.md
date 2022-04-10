@@ -59,9 +59,11 @@ I also always enjoyed the training sessions - and often could feel myself improv
 
 At the end of the term I began doing wall-ball quite a bit. I also want to start skipping to improve footwork. Also strength.
 
->Once your pride gets involved, you’ll fight tooth and nail to maintain your habits. James Clear
+>The more pride you have in a particular aspect of your identity, the more motivated you will be to maintain the habits associated with it. If you’re proud of how your hair looks, you’ll develop all sorts of habits to care for and maintain it. If you’re proud of the size of your biceps, you’ll make sure you never skip an upper-body workout. If you’re proud of the scarves you knit, you’ll be more likely to spend hours knitting each week. **Once your pride gets involved, you’ll fight tooth and nail to maintain your habits.** James Clear
 
 >True behavior change is identity change. You might start a habit because of motivation, but the only reason you’ll stick with one is that it becomes part of your identity.
+
+playing destiny from PCMS to RGS - dropped from personality
 
 >True behavior change is identity change. You might start a habit because of motivation, but the only reason you’ll stick with one is that it becomes part of your identity. Anyone can convince themselves to visit the gym or eat healthy once or twice, but if you don’t shift the belief behind the behavior, then it is hard to stick with long-term changes. Improvements are only temporary until they become part of who you are.
 
