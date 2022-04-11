@@ -2,7 +2,22 @@
 layout: page
 title: Great Books
 ---
-## Books That Form My Personal Belief System
+## Books That Form My Personal Belief
+
+- [Critical Transitions in Nature and Society](#Critical Transitions in Nature and Society by *Marten Scheffer*) by *Marten Scheffer*
+
+## Other Great Non-fiction Books
+
+- **The Strangest Man: The Hidden Life of Paul Dirac, Quantum Genius** by *Graham Farmelo*.
+- **Is Water H_20? Evidence, Realism and Pluralism** by *Hasok Chang*.
+
+## Articles
+
+- [The Newton Hypothesis](https://nintil.com/newton-hypothesis)
+- [US Science Leadership?](https://nintil.com/us-science-leadership)
+- [History of Gamma Function]( {{site.url }}/assets/textbooks/HistoryGammaFunction_Davis.pdf) by *Philip Davis*
+
+## Book Overviews
 
 These are a few books who ideas are central to my working philosophy. Some notes are also included. Other great books are included below.
 
@@ -61,15 +76,3 @@ The main take away from this book is signalling theory. Although not directly co
 tech ceos emails - grammar
 
 ### Zero to One by *Peter Thiel*
-
-
-## Other Great Non-fiction Books
-
-- [The Strangest Man: The Hidden Life of Paul Dirac, Quantum Genius](https://www.goodreads.com/book/show/6629359-the-strangest-man) by *Graham Farmelo*.
-- [Is Water H_20? Evidence, Realism and Pluralism](https://www.goodreads.com/book/show/14732461-is-water-h2o) by *Hasok Chang*.
-
-## Articles
-
-- [The Newton Hypothesis](https://nintil.com/newton-hypothesis)
-- [US Science Leadership?](https://nintil.com/us-science-leadership)
-- [History of Gamma Function]( {{site.url }}/assets/textbooks/HistoryGammaFunction_Davis.pdf) by *Philip Davis*
