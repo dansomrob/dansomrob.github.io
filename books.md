@@ -12,6 +12,7 @@ title: Great Books
 - The Strangest Man: The Hidden Life of Paul Dirac, Quantum Genius by *Graham Farmelo*.
 - Is Water H<sub>2</sub>0? Evidence, Realism and Pluralism by *Hasok Chang*.
 - Shredded: Inside RBS, The Bank That Broke Britain by *Ian Fraser*
+- The History and Present State of Electricity by *Joseph Priestley*
 
 ## Articles
 
