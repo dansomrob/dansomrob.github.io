@@ -2,16 +2,13 @@
 layout: page
 title: Great Books
 ---
-## Books That Form My Personal Belief
+## Great Books
 
 - [Critical Transitions in Nature and Society](#critical-transitions-in-nature-and-society) by *Marten Scheffer*
 - [Alpha Brain](#alphabrain) by *Stephen Duneier*
 - [The Selfish Gene](#the-selfish-gene) by *Richard Dawkins*
 - [Chimpanzee Politics](#chimpanzee-politics) by *Frans de Waal*
 - [Zero to One](#zero-to-one) by *Peter Thiel*
-
-## Other Great Non-fiction Books
-
 - The Strangest Man: The Hidden Life of Paul Dirac, Quantum Genius by *Graham Farmelo*.
 - Is Water H<sub>2</sub>0? Evidence, Realism and Pluralism by *Hasok Chang*.
 
@@ -23,7 +20,7 @@ title: Great Books
 
 ## Book Overviews
 
-These are a few books who ideas are central to my working philosophy. Some notes are also included. Other great books are included below.
+These are a few books who ideas are central to my working philosophy. Included is a brief overview of their key ideas.
 
 ### Critical Transitions in Nature and Society
 
