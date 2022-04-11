@@ -8,7 +8,6 @@ title: Great Books
 - [Alpha Brain]({{ site.url }}/books/alphabrain) by *Stephen Duneier*
 - [The Selfish Gene]({{ site.url }}/books/selfish-gene) by *Richard Dawkins*
 - [Chimpanzee Politics]({{ site.url }}/books/chimp-polit) by *Frans de Waal*
-- [Zero to One]({{ site.url }}/book/021) by *Peter Thiel*
 - The Strangest Man: The Hidden Life of Paul Dirac, Quantum Genius by *Graham Farmelo*.
 - Is Water H<sub>2</sub>0? Evidence, Realism and Pluralism by *Hasok Chang*.
 - Shredded: Inside RBS, The Bank That Broke Britain by *Ian Fraser*
