@@ -18,6 +18,16 @@ AlphaBrian is split into two halves. The first is a general guide to decision th
 
 #### Marginal Improvements
 
+Duneier uses the career of Novak Djokovic
+
+| |2004-2005|2006-2010|2011-2016|
+|---|---|---|---|
+|Rank|100+|3|1|
+|Annual Prize Money|$300,000|$5mn|$14mn|
+|Matches Won (%)|49%|79%|90%|
+
+These are outcomes. Djokovic doesn't control any of these statistics.
+
 | |2004-2005|2006-2010|2011-2016|
 |---|---|---|---|
 |Rank|100+|3|1|
