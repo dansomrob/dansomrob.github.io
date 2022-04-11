@@ -4,7 +4,7 @@ title: Great Books
 ---
 ## Books That Form My Personal Belief
 
-- [Critical Transitions in Nature and Society](#Critical Transitions in Nature and Society by *Marten Scheffer*) by *Marten Scheffer*
+- [Critical Transitions in Nature and Society](#critical-transitions-in-nature-and-society) by *Marten Scheffer*
 
 ## Other Great Non-fiction Books
 
@@ -21,7 +21,7 @@ title: Great Books
 
 These are a few books who ideas are central to my working philosophy. Some notes are also included. Other great books are included below.
 
-### Critical Transitions in Nature and Society by *Marten Scheffer*
+### Critical Transitions in Nature and Society
 
 ### AlphaBrain by *Stephen Duneier*
 
