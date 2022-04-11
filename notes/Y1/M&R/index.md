@@ -4,11 +4,11 @@ title: Mechanics & Relativity
 ---
 
 - Classical Mechanics (Autumn)
-  - [Lecture 1 - Introduction]({{ site.url }}/assets/Y1/M&R/CM/L1.pdf)
-  - [Lecture 2 - Newton's Laws]({{ site.url }}/assets/Y1/M&R/CM/L2.pdf)
-  - [Lecture 3 - 1D Motion]({{ site.url }}/assets/Y1/M&R/CM/L3.pdf)
-  - [Lecture 4 - Work & Power]({{ site.url }}/assets/Y1/M&R/CM/L4.pdf)
-  - [Lecture 5 - Potential Energy]({{ site.url }}/assets/Y1/M&R/CM/L5.pdf)
+  - [Lecture 1 - Introduction]({{ site.url }}/notes/Y1/M&R/CM/L1.pdf)
+  - [Lecture 2 - Newton's Laws]({{ site.url }}/notes/Y1/M&R/CM/L2.pdf)
+  - [Lecture 3 - 1D Motion]({{ site.url }}/notes/Y1/M&R/CM/L3.pdf)
+  - [Lecture 4 - Work & Power]({{ site.url }}/notes/Y1/M&R/CM/L4.pdf)
+  - [Lecture 5 - Potential Energy]({{ site.url }}/notes /Y1/M&R/CM/L5.pdf)
   - [Lecture 6 - Potential & Force]({{ site.url }}/assets/Y1/M&R/CM/L6.pdf)
   - [Lecture 7 - Centre of Mass]({{ site.url }}/assets/Y1/M&R/CM/L7.pdf)
   - [Lecture 8 - 1D Collisions]({{ site.url }}/assets/Y1/M&R/CM/L8.pdf)
