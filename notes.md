@@ -2,7 +2,7 @@
 layout: page
 title: Revision Notes
 ---
-- **Imperial Physics** ([Course Overview]({{ site.url}}/assets/overview))
+- **Imperial Physics** ([Course Overview]({{ site.url}}/notes/Y1/overview))
   - Year 1
     - [Mechanics & Relativity]({{ site.url }}/notes/Y1/M&R/index)
     - [Oscillations & Waves]({{ site.url }}/notes/Y1/O&W/index)
