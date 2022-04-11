@@ -11,6 +11,7 @@ title: Great Books
 - [Zero to One](#zero-to-one) by *Peter Thiel*
 - The Strangest Man: The Hidden Life of Paul Dirac, Quantum Genius by *Graham Farmelo*.
 - Is Water H<sub>2</sub>0? Evidence, Realism and Pluralism by *Hasok Chang*.
+- Shredded: Inside RBS, The Bank That Broke Britain by *Ian Fraser*
 
 ## Articles
 
@@ -23,6 +24,24 @@ title: Great Books
 These are a few books who ideas are central to my working philosophy. Included is a brief overview of their key ideas.
 
 ### Critical Transitions in Nature and Society
+
+#### Alternative Stable States
+
+Coral Reef Collapse
+
+![coral.jpeg]({{ site.url }}/assets/images/coral.jpeg)
+
+Sahara Desert Birth
+
+![sahara.jpeg]({{ site.url }}/assets/images/sahara.jpeg)
+
+Alternative positive feedback loops
+
+#### Turbidity of Shallow Lakes
+
+![lakes.jpeg]({{ site.url }}/assets/images/lakes.jpeg)
+
+#### Evolution
 
 ### AlphaBrain
 
@@ -50,6 +69,10 @@ These are outcomes. Djokovic doesn't control any of these statistics.
 |Annual Prize Money|$300,000|$5mn|$14mn|
 |Matches Won (%)|49%|79%|90%|
 |Points Won (%)|49%|52%|55%|
+
+![nlf.jpeg]({{ site.url }}/assets/images/nfl.jpeg)
+
+![football.jpeg]({{ site.url }}/assets/images/football.jpeg)
 
 
 #### Length of Sports Games
