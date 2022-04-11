@@ -5,11 +5,15 @@ title: Great Books
 ## Books That Form My Personal Belief
 
 - [Critical Transitions in Nature and Society](#critical-transitions-in-nature-and-society) by *Marten Scheffer*
+- [Alpha Brain](#alphabrain) by *Stephen Duneier*
+- [The Selfish Gene](#the-selfish-gene) by *Richard Dawkins*
+- [Chimpanzee Politics](#chimpanzee-politics) by *Frans de Waal*
+- [Zero to One](#zero-to-one) by *Peter Thiel*
 
 ## Other Great Non-fiction Books
 
-- **The Strangest Man: The Hidden Life of Paul Dirac, Quantum Genius** by *Graham Farmelo*.
-- **Is Water H_20? Evidence, Realism and Pluralism** by *Hasok Chang*.
+- The Strangest Man: The Hidden Life of Paul Dirac, Quantum Genius by *Graham Farmelo*.
+- Is Water H<sub>2</sub>0? Evidence, Realism and Pluralism by *Hasok Chang*.
 
 ## Articles
 
@@ -23,9 +27,9 @@ These are a few books who ideas are central to my working philosophy. Some notes
 
 ### Critical Transitions in Nature and Society
 
-### AlphaBrain by *Stephen Duneier*
+### AlphaBrain
 
-AlphaBrian is split into two halves. The first is a general guide to decision theory and I'll cover that mostly. The second part covers decision making in finance. I won't cover that part.
+AlphaBrain is split into two halves. The first is a general guide to decision theory and I'll cover that mostly. The second part covers decision making in finance. I won't cover that part.
 
 #### Right vs Rational
 
@@ -53,10 +57,9 @@ These are outcomes. Djokovic doesn't control any of these statistics.
 
 #### Length of Sports Games
 
-### The Selfish Gene by *Richard Dawkins*
+### The Selfish Gene
 
-
-### Chimpanzee Politics by *Frans de Waal*
+### Chimpanzee Politics
 
 The main take away from this book is signalling theory. Although not directly covered, I'm going to cover it here.
 
@@ -75,4 +78,4 @@ The main take away from this book is signalling theory. Although not directly co
 
 tech ceos emails - grammar
 
-### Zero to One by *Peter Thiel*
+### Zero to One
