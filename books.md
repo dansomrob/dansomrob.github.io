@@ -15,9 +15,9 @@ title: Great Books
 
 ## Articles
 
-- [The Newton Hypothesis](https://nintil.com/newton-hypothesis)
-- [US Science Leadership?](https://nintil.com/us-science-leadership)
-- [History of Gamma Function]( {{site.url }}/assets/textbooks/HistoryGammaFunction_Davis.pdf) by *Philip Davis*
+- [The Newton Hypothesis](https://nintil.com/newton-hypothesis) by *José Ricón*
+- [US Science Leadership?](https://nintil.com/us-science-leadership)by *José Ricón*
+- [History of the Gamma Function]( {{site.url }}/assets/textbooks/HistoryGammaFunction_Davis.pdf) by *Philip Davis*
 
 ## Book Overviews
 
