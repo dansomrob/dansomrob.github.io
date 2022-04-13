@@ -42,7 +42,7 @@ title: Mechanics & Relativity
   - [Lecture 13 - Exact Differential & Stationary Points]({{ site.url }}/notes/Y1/M&R/C/L13.pdf)
   - [Lecture 14 - Taylor Series]({{ site.url }}/notes/Y1/M&R/C/L14.pdf)
   - [Lecture 15 - l'Hopital & Double Taylor]({{ site.url }}/notes/Y1/M&R/C/L15.pdf)
-  - [Lecture 16 - Convergence]({{ site.url }}/notes/Y1/M&R/C/L16.pdf)
+  - Lecture 16 - Convergence
 
 - Linear Algebra (Autumn)
   - [Lecture 1 - Vectors]({{ site.url }}/notes/Y1/M&R/LA/L1.pdf)
