@@ -2,52 +2,40 @@
 layout: default
 title: Hidden Journal
 ---
-<h1>My first two terms at Imperial</h1>
+# Aims/Goals
 
-<h3>Looking Back: School</h3>
 *Easter 2022*
 
-Looking back at my school time, I was very privileged. I grew up in the nicest part of the North East and went to the best school in the North East.
+>The hardest thing is not doing what you want - it's knowing what you want. [@Naval](https://twitter.com/NavalismHQ/status/1514833143294877700)
 
-I remember talking to my parents about how lucky I was. My dad disagreed. He said many of the things I viewed as lucky were due to my parents making intelligent decisions. Now I agree with him. I hope to be able to do the same with my children.
+Over the very long term, there are two main parts to your life.
 
-I've also come to the conclusion that I did very little work at school. I was able to waltz through most exams.
+- Your job
+- Your family
 
-I've also come to the conclusion that I did lots of extra-curricular activities and I'm proud of that.
+I want to avoid setting goals as every time I've tried this I've failed. Instead I want to focus on systems and build these into my identity.
 
-I'm glad of the time in school. I think it was reasonably well used.
+### My Future Career
 
-<h3>Winter Term</h3>
+I like to tell people I am studying physics 'because it makes me sound smart'. I don't know what occupation I'd like to go into.
 
-A good term.
+Looking at the [data](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/careers-service/public/resources/dlhe/ug-tables/Physics-tables.pdf) we find about 40-50% go into further study and 40-50% go into industry.
 
-One change is that I've stopped climbing. I've taken up new sports (jitsu and lacrosse). I'm not a massive fan of the people who do climbing. Agi and Waldo have also stopped climbing. It is no longer cool.
+Of those in employment about 25% go into finance and about 25% go into tech.
 
-<h3>Spring Term</h3>
+I now know I don't want to go into finance. I would rather go into tech, especially atoms not bits.
 
-This term was bad! There are two major failures this term: diet and sociability.
-
-At the start of the term we sat the M&R exam. At the time I thought it went horrifically.
-
-My diet this term has been poor. I have been eating mostly ultra-processed foods.
-
-hiding diet
-
-less social
-
-<h3>The Future: Summer Term</h3>
+### The Future: Summer Term
 
 I've begun thinking heavily about the teleology of university. This means instead of thinking in terms of cause and effect we now think of the **purpose** of what were doing.
 
-Ultimately there are two major life goals: family and work. I want to avoid setting goals as every time I've tried this I've failed. Instead I want to focus on systems and build these into my identity.
-
 There are some positive things that have happened to build one so far. I enjoy playing lacrosse and jitsu, improving both is important.
 
-**Jitsu**
+#### Jitsu
 
 The role of president for jitsu is great. I want to be the best president for quite a few years.
 
-**Lacrosse**
+#### Lacrosse
 
 There is lots of popular chit-chat about habits that are good for you (gym, etc.). However more fundamental is changing your personality.
 
@@ -73,8 +61,43 @@ playing destiny from PCMS to RGS - dropped from personality
 
 identity repeats beings
 
-<h1>2021 - A Year in Review</h1>
-*New Year 2021*
+# My first two terms at Imperial
+
+*Easter 2022*
+
+### Looking Back: School
+
+Looking back at my school time, I was very privileged. I grew up in the nicest part of the North East and went to the best school in the North East.
+
+I remember talking to my parents about how lucky I was. My dad disagreed. He said many of the things I viewed as lucky were due to my parents making intelligent decisions. Now I agree with him. I hope to be able to do the same with my children.
+
+I've also come to the conclusion that I did very little work at school. I was able to waltz through most exams.
+
+I've also come to the conclusion that I did lots of extra-curricular activities and I'm proud of that.
+
+I'm glad of the time in school. I think it was reasonably well used.
+
+### Winter Term
+
+A good term.
+
+One change is that I've stopped climbing. I've taken up new sports (jitsu and lacrosse). I'm not a massive fan of the people who do climbing. Agi and Waldo have also stopped climbing. It is no longer cool.
+
+### Spring Term
+
+This term was bad! There are two major failures this term: diet and sociability.
+
+At the start of the term we sat the M&R exam. At the time I thought it went horrifically.
+
+My diet this term has been poor. I have been eating mostly ultra-processed foods.
+
+hiding diet
+
+less social
+
+# 2021 - A Year in Review
+
+*Jan 2022*
 - Achieved top grades in all subjects at secondary school.
 - Began UG studies at Imperial.
 - Started playing lacrosse and learning jitsu.

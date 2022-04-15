@@ -32,3 +32,5 @@ These are outcomes. Djokovic doesn't control any of these statistics.
 ![football.jpeg]({{ site.url }}/assets/images/football.jpeg)
 
 ##### Length of Sports Games
+
+How to Be Great? Just Be Good, Repeatably
