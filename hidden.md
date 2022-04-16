@@ -8,9 +8,7 @@ title: Hidden Journal
 
 >The hardest thing is not doing what you want - it's knowing what you want. [@Naval](https://twitter.com/NavalismHQ/status/1514833143294877700)
 
-This is a vague, self-exploratory essay looking at purpose & meaning. I want to guide me to figure out what I want to do with my life and my next few years at Imperial.
-
->'Education was a substitute for thinking about your future' Thiel
+This is a vague, self-exploratory essay looking at purpose & meaning. I want to guide me to figure out what I want to do with my life and my next few years at Imperial. The investor Peter Thiel quipped when looking back at his '*Education was a substitute for thinking about your future*'. I think this is true for most people.
 
 ### Introduction
 

@@ -2,9 +2,9 @@
 layout: post
 title: The Pursuit of Happyness
 ---
-![The Pursuit of Happyness]({{ site.url }}/assets/images/willsmith.jpg)
-
 I would like to be happy in life. Here is some scientific findings looking at life satisfaction.
+
+![The Pursuit of Happyness]({{ site.url }}/assets/images/willsmith.jpg){width: 200px}
 
 #### Friendships
 
@@ -18,14 +18,14 @@ Friends are important.
 
 Zelenski, Sobocko & Whelan's [paper](https://www.researchgate.net/publication/263047178_Introversion_Solitude_and_Subjective_Well-Being) found that
 
-> **introverts enjoy social interactions about as much as extraverts** ... extraverts report more positive affect than introverts even when alone ... **introverts may be less prone to notice or seek out pleasant situations, and less likely to maintain positive feelings**
+> **introverts enjoy social interactions about as much as extraverts** ... extraverts report more positive affect than introverts even when alone ... introverts may be less prone to notice or seek out pleasant situations, and less likely to maintain positive feelings
 
 It has [been shown](https://twitter.com/robkhenderson/status/1488214540139606025) that when instructed to behave in an extraverted manor, both introverts and extraverts felt better than when instructed to behave in an introverted manor. The trait of extraversion is related to positive emotions.
 
 #### Education
 [This](https://www.sciencedirect.com/science/article/pii/S0167487017302210) paper by Ingebjørg Kristoffersen shows that that there is no correlation between education and happiness
 
-> this suggests **people with higher levels of education tend to have higher expectations of life circumstances**, but **do not systematically differ in their ability to meet their expectations**. Consequently, the **overall association between education and life satisfaction is neutral**.
+> this suggests people with higher levels of education tend to have higher expectations of life circumstances, but do not systematically differ in their ability to meet their expectations. Consequently, the **overall association between education and life satisfaction is neutral**.
 
 #### Extra-curricular
 
@@ -65,7 +65,7 @@ Therefore income isn't very important for life satisfaction.
 
 #### To Conclude
 
-In short, a successful life is a happy life. 
+In short, a successful life is a happy life.
 
 To finish, a quote from Viktor E. Frankl's Man's Search for Meaning sums it up best:
 
