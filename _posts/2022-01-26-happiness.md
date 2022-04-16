@@ -43,7 +43,7 @@ It has [been shown](https://twitter.com/robkhenderson/status/1488214540139606025
 
 #### Work
 
-[Daniel Kahneman's]() answer to the 2011 Edge question looks at the effect of income on life satisfaction
+[Daniel Kahneman's](https://www.edge.org/response-detail/11984) answer to the 2011 Edge question looks at the effect of income on life satisfaction
 
 > Income is an important determinant of people's satisfaction with their lives, but it is far less important than most people think. **If everyone had the same income, the differences among people in life satisfaction would be reduced by less than 5%**.
 
@@ -62,3 +62,11 @@ Therefore income isn't very important for life satisfaction.
 > wealth has only a trivial effect on happiness unless we have more than those around us, suggesting **it is status and not money that we are really after**
 
 > if all of society rises in wealth at the same time, increases in wealth beyond poverty provide **no** increase in happiness.
+
+#### To Conclude
+
+In short, a successful life is a happy life. 
+
+To finish, a quote from Viktor E. Frankl's Man's Search for Meaning sums it up best:
+
+> Again and again I admonish my students both in Europe and in America: Don't aim at success. The more you aim at it and make it a target, the more you are going to miss it. **For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side effect of one's personal dedication to a cause greater than oneself or as the by-product of one's surrender to a person other than oneself**. Happiness must happen, and the same holds for success: you have to let it happen by not caring about it. I want you to listen to what your conscience commands you to do and go on to carry it out to the best of your knowledge. Then you will live to see that in the long-run—in the long-run, I say!—success will follow you precisely because you had forgotten to think about it.
