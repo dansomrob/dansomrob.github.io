@@ -10,13 +10,13 @@ title: Hidden Journal
 
 This is a vague, self-exploratory essay looking at purpose & meaning. I want to guide me to figure out what I want to do with my life and my next few years at Imperial.
 
+>'Education was a substitute for thinking about your future' Thiel
+
 ### Introduction
 
 Over the very long term, there are two main parts to your life. **Your job** & **your family**. Your job is how you meaningfully contribute to society. Your family is what keeps the human population alive in future generations.
 
-I want to avoid setting goals as every time I've tried this I've failed. Instead I want to focus on systems and build these into my identity.
-
-Happiness
+I want to avoid setting goals as every time I've tried this I've failed. Instead I want to focus on who I cant to become (identity).
 
 ### My Anti-Goals
 
@@ -25,7 +25,7 @@ Some things I know I don't every want to happen to me are
 * Get divorced
 * Get fat
 
-Lots of my family has put on the pounds, I would like to avoid this.
+Lots of my family has put on the pounds, I would like to avoid this. I also want to avoid getting divorced, it has a major negative impact on children.
 
 ### My Future Career
 
@@ -51,6 +51,8 @@ There are some positive things that have happened to build one so far. I enjoy p
 
 The role of president for jitsu is great. I want to be the best president for quite a few years.
 
+> "Sometimes you do have to fight. Where that’s true, you should fight and win. There is no middle ground: either don’t throw any punches, or strike hard and end it quickly. Thiel
+
 #### Lacrosse
 
 There is lots of popular chit-chat about habits that are good for you (gym, etc.). However more fundamental is changing your personality.
@@ -69,7 +71,7 @@ At the end of the term I began doing wall-ball quite a bit. I also want to start
 
 >True behavior change is identity change. You might start a habit because of motivation, but the only reason you’ll stick with one is that it becomes part of your identity.
 
-playing destiny from PCMS to RGS - dropped from personality
+A very personal example would be playing the video game Destiny - which I did most days fter schools with my close friends whilst at PCMS. When I moved from PCMS to RGS I stopped playing video games almost entirely. It was no longer part of my from personality.
 
 >True behavior change is identity change. You might start a habit because of motivation, but the only reason you’ll stick with one is that it becomes part of your identity. Anyone can convince themselves to visit the gym or eat healthy once or twice, but if you don’t shift the belief behind the behavior, then it is hard to stick with long-term changes. Improvements are only temporary until they become part of who you are.
 
@@ -78,6 +80,53 @@ playing destiny from PCMS to RGS - dropped from personality
 >Outcomes are about what you get. Processes are about what you do. Identity is about what you believe.
 
 identity repeats beings
+
+### Happiness
+
+I would like to be happy in life. Here is some scientific findings looking at life satisfaction.
+
+#### Friendships
+
+[This](https://psycnet.apa.org/record/2008-08052-003) paper by Demir & Weitekamp found that
+
+> Friendship variables accounted for 58% of the variance in happiness. Results revealed that friendship quality predicted happiness above and beyond the influence of personality and number of friends.
+
+Friends are important.
+
+#### Education
+[This](https://www.sciencedirect.com/science/article/pii/S0167487017302210) paper by Ingebjørg Kristoffersen shows that that there is no correlation between education and happiness
+
+> this suggests **people with higher levels of education tend to have higher expectations of life circumstances**, but **do not systematically differ in their ability to meet their expectations**. Consequently, the **overall association between education and life satisfaction is neutral**.
+
+#### Extra-curricular
+
+[This](https://www.sciencedirect.com/science/article/pii/S016503272200266X) paper by Jetten et al. looks at sporting extra curricular activities and depression/anxiety amongst adolescent boys. It measured these at T1 (time 1) and then a year later at T2 (time 2).
+
+>For instance, while **physical fitness correlated with depression and anxiety** at both timepoints, **physical fitness nevertheless did not predict change over time in depression and anxiety**. This finding is important when considering interventions to improve mental health, as it suggests that **getting adolescents to engage in physical activity in schools to improve their physical fitness may not always produce positive change in depression and anxiety**.
+
+>The number of sports groups that participants were involved in at T1 was unrelated to anxiety at T1 and T2 and unrelated to depression at T1 and T2.
+
+>Second, our results suggest that mere participation in a greater number of extra-curricular (sport or non-sport) groups at T1 was not associated with mental health benefits. That is, even though taking part in more extra-curricular sport groups at T1 was associated with lower depression, it was not associated with lower anxiety at T1, and **nor did mere participation in more extra-curricular groups predict reduced depression and anxiety over time**. Accordingly, we did not find that a ‘more the merrier’ effect flowed from the number of extra-curricular sporting groups that adolescents engaged in.
+
+>the more that participants indicated that they **belonged** to multiple groups, the lower their anxiety and depression at T1 and T2. Importantly too, these correlations between multiple group membership and anxiety and depression at T2 remained significant when controlling for T1 anxiety and T1 depression. This suggests that **belonging to multiple groups (sports or non-sports) predicted change in anxiety and depression over time**.
+
+>The best predictor of participants' mental health over time was the extent to which they **identified with multiple social groups** — including, but not limited to, sports groups — and the extent to which these social groups were compatible with other social groups that were important to them. Even though the strength of relationships was modest, these data suggest that **improvements in mental health effects over time arise less from people being physically active than from being socially active**.
+
+#### Work
+
+[Daniel Kahneman's]() answer to the 2011 Edge question looks at the effect of income on life satisfaction
+
+> Income is an important determinant of people's satisfaction with their lives, but it is far less important than most people think. If everyone had the same income, the differences among people in life satisfaction would be reduced by less than 5%.
+
+However, education might effect income. Kahneman's response was
+
+> Education is an important determinant of income — one of the most important — but it is less important than most people think. If everyone had the same education, the inequality of income would be reduced by less than 10%.
+
+Therefore income isn't very important for life satisfaction.
+
+#### Marriage
+
+
 
 # My first two terms at Imperial
 
