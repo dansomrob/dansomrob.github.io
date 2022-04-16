@@ -2,30 +2,46 @@
 layout: default
 title: Hidden Journal
 ---
-# Aims/Goals
+# Aims & Goals
 
 *Easter 2022*
 
 >The hardest thing is not doing what you want - it's knowing what you want. [@Naval](https://twitter.com/NavalismHQ/status/1514833143294877700)
 
-Over the very long term, there are two main parts to your life.
+This is a vague, self-exploratory essay looking at purpose & meaning. I want to guide me to figure out what I want to do with my life and my next few years at Imperial.
 
-- Your job
-- Your family
+### Introduction
+
+Over the very long term, there are two main parts to your life. **Your job** & **your family**. Your job is how you meaningfully contribute to society. Your family is what keeps the human population alive in future generations.
 
 I want to avoid setting goals as every time I've tried this I've failed. Instead I want to focus on systems and build these into my identity.
 
+Happiness
+
+### My Anti-Goals
+
+Some things I know I don't every want to happen to me are
+
+* Get divorced
+* Get fat
+
+Lots of my family has put on the pounds, I would like to avoid this.
+
 ### My Future Career
 
-I like to tell people I am studying physics 'because it makes me sound smart'. I don't know what occupation I'd like to go into.
+I like to tell people I am studying physics 'because it makes me sound smart'. I don't know what occupation I'd like to go into. I know that I don't want to do PhD.
 
-Looking at the [data](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/careers-service/public/resources/dlhe/ug-tables/Physics-tables.pdf) we find about 40-50% go into further study and 40-50% go into industry.
+>From time to time I meet with a youth in whom I can wish for no alteration or improvement, only I am sorry to see how often his nature makes him quite ready to swim with the stream of the time; and it is on this that I would always insist, that man in his fragile boat has the rudder placed in his hand, just that he may not be at the mercy of the waves, but follow the direction of his own insight. Goethe
 
-Of those in employment about 25% go into finance and about 25% go into tech.
+wealth has only a trivial effect on happiness unless we have more than those around us, suggesting it is status and not money that we are really after
 
-I now know I don't want to go into finance. I would rather go into tech, especially atoms not bits.
+### My Future Relationships
 
-### The Future: Summer Term
+I know that I don't want to meet my future partner online.
+
+Some ten years ago, I found myself in an after-dinner conversation, lubricated by wine, with an American who had been educated at an Ivy League college and was then teaching in Europe. As our conversation drifted toward matters of life, marriage and children, I was initially surprised by his statement that whoever he had married, the outcome in terms of where they lived, what type of house they owned, what kind of holidays and entertainment they would enjoy, and even what colleges their children would attend would be practically the same. His reasoning was as follows: “**When I went to [Ivy League institution], I knew that I would marry a woman I met there. Women also knew the same thing. We all knew that our pool of desirable marriage candidates would never be as vast again. And then whomever I married would be a specimen of the same genre: They were all well-educated, smart women who came from the same social class, read the same novels and newspapers, dressed the same, had the same preferences about restaurants, hiking, places to live, cars to drive and people to see, as well about how to take care of the kids and what schools they should attend. It really made almost no difference socially whom among them I married.**” Article by [[Branko Milanovic](https://quillette.com/2019/10/18/rich-like-me-how-assortative-mating-is-driving-income-inequality/)]
+
+### The Immediate Future: Summer Term
 
 I've begun thinking heavily about the teleology of university. This means instead of thinking in terms of cause and effect we now think of the **purpose** of what were doing.
 
@@ -46,6 +62,8 @@ This is when peer pressure can actually be positive. I have felt this multiple t
 I also always enjoyed the training sessions - and often could feel myself improving. However getting to the session was difficult. I want to begin going to S&C on Fridays and Sports Nights every Wednesday and get further into the sport.
 
 At the end of the term I began doing wall-ball quite a bit. I also want to start skipping to improve footwork. Also strength.
+
+### Changing Oneself
 
 >The more pride you have in a particular aspect of your identity, the more motivated you will be to maintain the habits associated with it. If you’re proud of how your hair looks, you’ll develop all sorts of habits to care for and maintain it. If you’re proud of the size of your biceps, you’ll make sure you never skip an upper-body workout. If you’re proud of the scarves you knit, you’ll be more likely to spend hours knitting each week. **Once your pride gets involved, you’ll fight tooth and nail to maintain your habits.** James Clear
 
