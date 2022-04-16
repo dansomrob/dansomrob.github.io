@@ -4,7 +4,7 @@ title: The Pursuit of Happyness
 ---
 I would like to be happy in life. Here is some scientific findings looking at life satisfaction.
 
-![The Pursuit of Happyness]({{ site.url }}/assets/images/willsmith.jpg){width: 200px}
+![The Pursuit of Happyness]({{ site.url }}/assets/images/willsmith.jpg){ width=50% }
 
 #### Friendships
 
