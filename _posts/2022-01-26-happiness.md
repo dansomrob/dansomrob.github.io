@@ -10,7 +10,7 @@ I would like to be happy in life. Here is some scientific findings looking at li
 
 [This](https://psycnet.apa.org/record/2008-08052-003) paper by Demir & Weitekamp found that
 
-> Friendship variables accounted for 58% of the variance in happiness. Results revealed that friendship quality predicted happiness above and beyond the influence of personality and number of friends.
+> **Friendship variables accounted for 58% of the variance in happiness**. Results revealed that friendship quality predicted happiness above and beyond the influence of personality and number of friends.
 
 Friends are important.
 
@@ -18,7 +18,7 @@ Friends are important.
 
 Zelenski, Sobocko & Whelan's [paper](https://www.researchgate.net/publication/263047178_Introversion_Solitude_and_Subjective_Well-Being) found that
 
-> introverts enjoy social interactions about as much as extraverts ... extraverts report more positive affect than introverts even when alone ... introverts may be less prone to notice or seek out pleasant situations, and less likely to maintain positive feelings
+> **introverts enjoy social interactions about as much as extraverts** ... extraverts report more positive affect than introverts even when alone ... **introverts may be less prone to notice or seek out pleasant situations, and less likely to maintain positive feelings**
 
 It has [been shown](https://twitter.com/robkhenderson/status/1488214540139606025) that when instructed to behave in an extraverted manor, both introverts and extraverts felt better than when instructed to behave in an introverted manor. The trait of extraversion is related to positive emotions.
 
@@ -45,11 +45,11 @@ It has [been shown](https://twitter.com/robkhenderson/status/1488214540139606025
 
 [Daniel Kahneman's]() answer to the 2011 Edge question looks at the effect of income on life satisfaction
 
-> Income is an important determinant of people's satisfaction with their lives, but it is far less important than most people think. If everyone had the same income, the differences among people in life satisfaction would be reduced by less than 5%.
+> Income is an important determinant of people's satisfaction with their lives, but it is far less important than most people think. **If everyone had the same income, the differences among people in life satisfaction would be reduced by less than 5%**.
 
 However, education might effect income. Kahneman's response was
 
-> Education is an important determinant of income — one of the most important — but it is less important than most people think. If everyone had the same education, the inequality of income would be reduced by less than 10%.
+> Education is an important determinant of income — one of the most important — but it is less important than most people think. **If everyone had the same education, the inequality of income would be reduced by less than 10%**.
 
 Therefore income isn't very important for life satisfaction.
 
