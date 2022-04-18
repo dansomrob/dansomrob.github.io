@@ -27,10 +27,10 @@ title: Classical Mechanics
   - [Lecture 7 - Normal Modes]({{ site.url }}/assets/Y1/O&W/OW/L7.pdf)
   - [Lecture 8 - The Wave Equation]({{ site.url }}/assets/Y1/O&W/OW/L8.pdf)
   - [Lecture 9 - Sinusoidal Waves]({{ site.url }}/assets/Y1/O&W/OW/L9.pdf)
-  - [Lecture 10 - Waves on a String]({{ site.url }}/assets/Y1/O&W/OW/L10.pdf)
-  - [Lecture 11 - Diffraction & Interference]({{ site.url }}/assets/Y1/O&W/OW/L11.pdf)
+  - Lecture 10 - Waves on a String
+  - Lecture 11 - Diffraction & Interference
   - [Lecture 12 - Standing Waves]({{ site.url }}/assets/Y1/O&W/OW/L12.pdf)
-  - [Lecture 13 - Wave Packets]({{ site.url }}/assets/Y1/O&W/OW/L13.pdf)
+  - Lecture 13 - Wave Packets
 - Basic Electronics (Spring)
   - [Lecture 1 - Current, Voltage & Power]({{ site.url }}/assets/Y1/O&W/BE/L1.pdf)
   - [Lecture 2 - Circuit Analysis]({{ site.url }}/assets/Y1/O&W/BE/L2.pdf)
@@ -56,12 +56,12 @@ title: Classical Mechanics
   - [Lecture 1 - Models of Light]({{ site.url }}/assets/Y1/O&W/O/L1.pdf)
   - [Lecture 2 - Refraction & Reflection]({{ site.url }}/assets/Y1/O&W/O/L2.pdf)
   - [Lecture 3 - Fermat's Principle]({{ site.url }}/assets/Y1/O&W/O/L3.pdf)
-  - [Lecture 4 - Imaging]({{ site.url }}/assets/Y1/O&W/O/L4.pdf)
-  - [Lecture 5 - Optical Imaging 1]({{ site.url }}/assets/Y1/O&W/O/L5.pdf)
-  - [Lecture 6 - Optical Imaging 2]({{ site.url }}/assets/Y1/O&W/O/L6.pdf)
-  - [Lecture 7 - Diffraction]({{ site.url }}/assets/Y1/O&W/O/L7.pdf)
-  - [Lecture 8 - Far-field Diffraction]({{ site.url }}/assets/Y1/O&W/O/L8.pdf)
-  - [Lecture 9 - Fourier Optics]({{ site.url }}/assets/Y1/O&W/O/L9.pdf)
-  - [Lecture 10 - Resolution]({{ site.url }}/assets/Y1/O&W/O/L10.pdf)
-  - [Lecture 11 - Imaging Quality]({{ site.url }}/assets/Y1/O&W/O/L11.pdf)
-  - [Lecture 12 - Interferometry]({{ site.url }}/assets/Y1/O&W/O/L12.pdf)
+  - Lecture 4 - Imaging
+  - Lecture 5 - Optical Imaging 1
+  - Lecture 6 - Optical Imaging 2
+  - Lecture 7 - Diffraction
+  - Lecture 8 - Far-field Diffraction
+  - Lecture 9 - Fourier Optics
+  - Lecture 10 - Resolution
+  - Lecture 11 - Imaging Quality
+  - Lecture 12 - Interferometry

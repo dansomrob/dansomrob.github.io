@@ -2,8 +2,7 @@
 layout: default
 title: Classical Mechanics
 ---
-
-- Vector Fields
+- Vector Fields (Autumn)
   - [Lecture 1 - Differentiation 1]({{ site.url }}/assets/Y1/E&M/VF/L1.pdf)
   - [Lecture 2 - Differentiation 2]({{ site.url }}/assets/Y1/E&M/VF/L2.pdf)
   - [Lecture 3 - Integration 1]({{ site.url }}/assets/Y1/E&M/VF/L3.pdf)
@@ -21,7 +20,7 @@ title: Classical Mechanics
   - [Lecture 15 - Green's Theorem]({{ site.url }}/assets/Y1/E&M/VF/L15.pdf)
   - [Lecture 16 - Curl]({{ site.url }}/assets/Y1/E&M/VF/L16.pdf)
   - [Lecture 17 - Stokes' Theorem]({{ site.url }}/assets/Y1/E&M/VF/L17.pdf)
-- Electrostatics
+- Electrostatics (Autumn)
   - [Lecture 1 - Charge, Force & Field]({{ site.url }}/assets/Y1/E&M/E/L1.pdf)
   - [Lecture 2 - Electric Potentials 1]({{ site.url }}/assets/Y1/E&M/E/L2.pdf)
   - [Lecture 3 - Electric Potentials 2]({{ site.url }}/assets/Y1/E&M/E/L3.pdf)
@@ -32,7 +31,7 @@ title: Classical Mechanics
   - [Lecture 8 - Dielectrics]({{ site.url }}/assets/Y1/E&M/E/L8.pdf)
   - [Lecture 9 - Current & Resistance]({{ site.url }}/assets/Y1/E&M/E/L9.pdf)
   - [Electric Dipoles]({{ site.url }}/assets/Y1/E&M/E/L10.pdf)
-- Magnetostatics
+- Magnetostatics (Autumn)
   - [Lecture 1 - The Magnetic Field]({{ site.url }}/assets/Y1/E&M/M/L1.pdf)
   - [Lecture 2 - Magnetic Forces]({{ site.url }}/assets/Y1/E&M/M/L2.pdf)
   - [Lecture 3 - Motors & Moving Charges]({{ site.url }}/assets/Y1/E&M/M/L3.pdf)
