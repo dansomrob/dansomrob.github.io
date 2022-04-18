@@ -8,13 +8,11 @@ title: Hidden Journal
 
 >The hardest thing is not doing what you want - it's knowing what you want. [@Naval](https://twitter.com/NavalismHQ/status/1514833143294877700)
 
-This is a vague, self-exploratory essay looking at purpose & meaning. I want to guide me to figure out what I want to do with my life and my next few years at Imperial. The investor Peter Thiel quipped when looking back at his '*Education was a substitute for thinking about your future*'. I think this is true for most people.
+This is a vague, self-exploratory essay looking at purpose & meaning. I want to guide me to figure out what I want to do with my life and my next few years at Imperial. The investor Peter Thiel quipped when looking back at his '*Education was a substitute for thinking about your future*'. I think this is true for most people, maybe mine too.
 
 ### Introduction
 
 Over the very long term, there are two main parts to your life. **Your job** & **your family**. Your job is how you meaningfully contribute to society. Your family is what keeps the human population alive in future generations.
-
-I want to avoid setting goals as every time I've tried this I've failed. Instead I want to focus on who I cant to become (identity).
 
 ### My Anti-Goals
 
@@ -29,19 +27,15 @@ Lots of my family has put on the pounds, I would like to avoid this. I also want
 
 I like to tell people I am studying physics 'because it makes me sound smart'. I don't know what occupation I'd like to go into. I know that I don't want to do PhD.
 
->From time to time I meet with a youth in whom I can wish for no alteration or improvement, only I am sorry to see how often his nature makes him quite ready to swim with the stream of the time; and it is on this that I would always insist, that man in his fragile boat has the rudder placed in his hand, just that he may not be at the mercy of the waves, but follow the direction of his own insight. Goethe
-
-wealth has only a trivial effect on happiness unless we have more than those around us, suggesting it is status and not money that we are really after
+> *From time to time I meet with a youth in whom I can wish for no alteration or improvement, only I am sorry to see how often his nature makes him quite ready to swim with the stream of the time; and it is on this that I would always insist, that man in his fragile boat has the rudder placed in his hand, just that he may not be at the mercy of the waves, but follow the direction of his own insight.* Goethe
 
 ### My Future Relationships
 
 I know that I don't want to meet my future partner online.
 
->Some ten years ago, I found myself in an after-dinner conversation, lubricated by wine, with an American who had been educated at an Ivy League college and was then teaching in Europe. As our conversation drifted toward matters of life, marriage and children, I was initially surprised by his statement that whoever he had married, the outcome in terms of where they lived, what type of house they owned, what kind of holidays and entertainment they would enjoy, and even what colleges their children would attend would be practically the same. His reasoning was as follows: “**When I went to [Ivy League institution], I knew that I would marry a woman I met there. Women also knew the same thing. We all knew that our pool of desirable marriage candidates would never be as vast again. And then whomever I married would be a specimen of the same genre: They were all well-educated, smart women who came from the same social class, read the same novels and newspapers, dressed the same, had the same preferences about restaurants, hiking, places to live, cars to drive and people to see, as well about how to take care of the kids and what schools they should attend. It really made almost no difference socially whom among them I married.**” Article by [[Branko Milanovic](https://quillette.com/2019/10/18/rich-like-me-how-assortative-mating-is-driving-income-inequality/)]
+>Some ten years ago, I found myself in an after-dinner conversation, lubricated by wine, with an American who had been educated at an Ivy League college and was then teaching in Europe. As our conversation drifted toward matters of life, marriage and children, I was initially surprised by his statement that whoever he had married, the outcome in terms of where they lived, what type of house they owned, what kind of holidays and entertainment they would enjoy, and even what colleges their children would attend would be practically the same. His reasoning was as follows: “**When I went to [Ivy League institution], I knew that I would marry a woman I met there. Women also knew the same thing. We all knew that our pool of desirable marriage candidates would never be as vast again. And then whomever I married would be a specimen of the same genre: They were all well-educated, smart women who came from the same social class, read the same novels and newspapers, dressed the same, had the same preferences about restaurants, hiking, places to live, cars to drive and people to see, as well about how to take care of the kids and what schools they should attend. It really made almost no difference socially whom among them I married.**” Article by [Branko Milanovic](https://quillette.com/2019/10/18/rich-like-me-how-assortative-mating-is-driving-income-inequality/)
 
 ### The Immediate Future: Summer Term
-
-I've begun thinking heavily about the teleology of university. This means instead of thinking in terms of cause and effect we now think of the **purpose** of what were doing.
 
 There are some positive things that have happened to build one so far. I enjoy playing lacrosse and jitsu, improving both is important.
 
@@ -49,7 +43,7 @@ There are some positive things that have happened to build one so far. I enjoy p
 
 The role of president for jitsu is great. I want to be the best president for quite a few years.
 
-> "Sometimes you do have to fight. Where that’s true, you should fight and win. There is no middle ground: either don’t throw any punches, or strike hard and end it quickly. Thiel
+> *ometimes you do have to fight. Where that’s true, you should fight and win. There is no middle ground: either don’t throw any punches, or strike hard and end it quickly.* Thiel
 
 #### Lacrosse
 
@@ -59,25 +53,7 @@ During the first term of lacrosse, the captain (Ash) told us about how he starte
 
 This is when peer pressure can actually be positive. I have felt this multiple times so far. There have been multiple times where I don't really want to go to training but I end up going due to peer pressure I've put myself under. By telling friends and family that I was playing lacrosse, deciding no to go was a failure. And I didn't to be seen failing. Therefore I always ended up going.
 
-I also always enjoyed the training sessions - and often could feel myself improving. However getting to the session was difficult. I want to begin going to S&C on Fridays and Sports Nights every Wednesday and get further into the sport.
-
-At the end of the term I began doing wall-ball quite a bit. I also want to start skipping to improve footwork. Also strength.
-
-### Changing Oneself
-
->The more pride you have in a particular aspect of your identity, the more motivated you will be to maintain the habits associated with it. If you’re proud of how your hair looks, you’ll develop all sorts of habits to care for and maintain it. If you’re proud of the size of your biceps, you’ll make sure you never skip an upper-body workout. If you’re proud of the scarves you knit, you’ll be more likely to spend hours knitting each week. **Once your pride gets involved, you’ll fight tooth and nail to maintain your habits.** James Clear
-
->True behavior change is identity change. You might start a habit because of motivation, but the only reason you’ll stick with one is that it becomes part of your identity.
-
-A very personal example would be playing the video game Destiny - which I did most days fter schools with my close friends whilst at PCMS. When I moved from PCMS to RGS I stopped playing video games almost entirely. It was no longer part of my from personality.
-
->True behavior change is identity change. You might start a habit because of motivation, but the only reason you’ll stick with one is that it becomes part of your identity. Anyone can convince themselves to visit the gym or eat healthy once or twice, but if you don’t shift the belief behind the behavior, then it is hard to stick with long-term changes. Improvements are only temporary until they become part of who you are.
-
->Your behaviors are usually a reflection of your identity.
-
->Outcomes are about what you get. Processes are about what you do. Identity is about what you believe.
-
-identity repeats beings
+I also always enjoyed the training sessions - and often could feel myself improving. However getting to the session was difficult. I want to begin going to S&C on Fridays and Sports Nights on Wednesdays and get further into the sport.
 
 ### Lemmings
 
@@ -92,7 +68,7 @@ Although I am a major critic of lemming-like behaviour, I often behave go with t
 
 The truth is whenever I do something because a group decides it's valuable, I always end up regretting it. I have an internal desire to be different from others, and copying the group doesn't work.
 
-#### You Are Your Job
+### You Are Your Job
 
 In Fight Club, Brad Pitt's character famously says
 
