@@ -79,6 +79,29 @@ A very personal example would be playing the video game Destiny - which I did mo
 
 identity repeats beings
 
+### Lemmings
+
+> Elite students climb confidently until they reach a level of competition sufficiently intense to beat their dreams out of them. Higher education is the place where people who had big plans in high school get stuck in **fierce rivalries with equally smart peers over conventional careers** like management consulting and investment banking.
+
+Of those [who have graduated](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/careers-service/public/resources/dlhe/ug-tables/Physics-tables.pdf) from Imperial Physics (my course), typically >25% go into finance, ~20% go into tech and ~10% go into consulting. All elite jobs. About 45% go into further study.
+
+Although I am a major critic of lemming-like behaviour, I often behave go with the crowd with lack of thought. It affects everything from what I wear to what I want to do. Some examples
+
+* A good friend of mine family owned a bread maker. The bread was fantastic. I decided I would like one. So I bought one - the cheapest one available. It was bad, the bread was horrific and I only used it once or twice. A complete waste of ~ £50.
+* The same good friend of mine also owned a very nice coat. I decided I wanted one, it cost ~ £150. I never wear it. I am often embarrassed to wear it.
+
+The truth is whenever I do something because a group decides it's valuable, I always end up regretting it. I have an internal desire to be different from others, and copying the group doesn't work.
+
+#### You Are Your Job
+
+In Fight Club, Brad Pitt's character famously says
+
+> You are not your job.
+
+This is wrong. Your job is an integral part of you. It is how you meaningfully contribute to society. As Thiel contributes
+
+> At college, model students obsessively hedge their futures by assembling a suite of exotic and minor skills. Every university believes in “excellence,” and hundred- page course catalogs arranged alphabetically according to arbitrary departments of knowledge seem designed to reassure you that “it doesn’t matter what you do, as long as you do it well.” That is completely false. **It does matter what you do. You should focus relentlessly on something you’re good at doing, but before that you must think hard about whether it will be valuable in the future**.
+
 # My first two terms at Imperial
 
 *Easter 2022*
