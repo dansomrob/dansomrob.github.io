@@ -8,9 +8,9 @@ I've decided to teach myself Geometric Algebra & Differential Geometry focusing 
 
 ### Textbooks
 
-* Keenan Crane's Discrete Differential Geometry [course notes]({{ site.url }}/notess/Geometric_Algebra/DDG.pdf)
-* Doran & Lasenby's Geometric Algebra [textbook]({{ site.url }}/notes/Geometric_Algebra/GAforPhysics.pdf)
-* Fortney's Differential Forms [textbook]({{ site.url }}/notes/Geometric_Algebra/VIDF.pdf)
+* Keenan Crane's discrete differential geometry [course notes]({{ site.url }}/notess/Geometric_Algebra/DDG.pdf)
+* Doran & Lasenby's geometric algebra [textbook]({{ site.url }}/notes/Geometric_Algebra/GAforPhysics.pdf)
+* Fortney's differential forms [textbook]({{ site.url }}/notes/Geometric_Algebra/VIDF.pdf)
 
 ## Part 1 - Geometric Algebra
 
