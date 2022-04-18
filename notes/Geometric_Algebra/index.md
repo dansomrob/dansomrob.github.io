@@ -4,7 +4,6 @@ title: Geometric Algebra
 ---
 
 # Geometric Algebra & Differential Geometry
-I've decided to teach myself Geometric Algebra & Differential Geometry focusing on physics. Here are my notes and other resources I'm using.
 
 ### Textbooks
 
