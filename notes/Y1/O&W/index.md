@@ -65,3 +65,6 @@ title: Classical Mechanics
   - Lecture 10 - Resolution
   - Lecture 11 - Imaging Quality
   - Lecture 12 - Interferometry
+  - Lecture 13 - Coherence
+  - Lecture 14 - Fibre Optics
+  - Lecture 15 - Lasers

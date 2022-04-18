@@ -66,7 +66,3 @@ Therefore income isn't very important for life satisfaction.
 #### To Conclude
 
 In short, a successful life is a happy life.
-
-To finish, a quote from Viktor E. Frankl's Man's Search for Meaning sums it up best:
-
-> Again and again I admonish my students both in Europe and in America: Don't aim at success. The more you aim at it and make it a target, the more you are going to miss it. **For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side effect of one's personal dedication to a cause greater than oneself or as the by-product of one's surrender to a person other than oneself**. Happiness must happen, and the same holds for success: you have to let it happen by not caring about it. I want you to listen to what your conscience commands you to do and go on to carry it out to the best of your knowledge. Then you will live to see that in the long-run—in the long-run, I say!—success will follow you precisely because you had forgotten to think about it.
