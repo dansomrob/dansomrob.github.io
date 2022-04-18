@@ -10,7 +10,7 @@ My name is Daniel Somerville Roberts, I am currently studying for a MSci in Phys
 * **August 2021** Graduated from secondary school.
 
 ### Current Projects
-* [This Website]({{ site.url }})
+* This Website
   * For personal use - why are you here?
 
 ### Past Projects
