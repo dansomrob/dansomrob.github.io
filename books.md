@@ -17,6 +17,5 @@ Book links are to my overview of the book (internal). Article links are to the a
 ## Articles
 
 - [The Newton Hypothesis](https://nintil.com/newton-hypothesis) by *José Ricón*
-- [US Science Leadership?](https://nintil.com/us-science-leadership) by *José Ricón*
 - [History of the Gamma Function]( {{site.url }}/assets/textbooks/HistoryGammaFunction_Davis.pdf) by *Philip Davis*
 - [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) by *Richard Hamming*
