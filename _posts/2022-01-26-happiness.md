@@ -59,6 +59,8 @@ Therefore income isn't very important for life satisfaction.
 
 > With regards to status, **research on monkeys has demonstrates that when they rise to the top of the status hierarchy, there is an increase in the dopamine (evolution's pleasure drug) sensitivity** in their brains. As a result of this increases, **monkeys at the top of the head no longer enjoy cocaine** (a drug that hijacks the dopamine system). When offered cocaine versus salt water, these top monkeys show no preference between them. In contrast, **monkeys at the bottom of the status hierarchy have low dopamine sensitivity and become avid coke users**. Data such as these confirm the common wisdom that high status makes us happy and low status make us sad.
 
+As a flatmate of my (roughly) quipped, *life is too depressing to care about the negatives of drugs*. 
+
 > wealth has only a trivial effect on happiness unless we have more than those around us, suggesting **it is status and not money that we are really after**
 
 > if all of society rises in wealth at the same time, increases in wealth beyond poverty provide **no** increase in happiness.
