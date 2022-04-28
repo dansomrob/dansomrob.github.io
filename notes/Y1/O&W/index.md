@@ -56,12 +56,12 @@ title: Classical Mechanics
   - [Lecture 1 - Models of Light]({{ site.url }}/notes/Y1/O&W/O/L1.pdf)
   - [Lecture 2 - Refraction & Reflection]({{ site.url }}/notes/Y1/O&W/O/L2.pdf)
   - [Lecture 3 - Fermat's Principle]({{ site.url }}/notes/Y1/O&W/O/L3.pdf)
-  - Lecture 4 - Imaging
-  - Lecture 5 - Optical Imaging 1
-  - Lecture 6 - Optical Imaging 2
-  - Lecture 7 - Diffraction
-  - Lecture 8 - Far-field Diffraction
-  - Lecture 9 - Fourier Optics
+  - [Lecture 4 - Imaging]({{ site.url }}/notes/Y1/O&W/O/L4.pdf)
+  - [Lecture 5 - Optical Imaging 1]({{ site.url }}/notes/Y1/O&W/O/L5.pdf)
+  - [Lecture 6 - Optical Imaging 2]({{ site.url }}/notes/Y1/O&W/O/L6.pdf)
+  - [Lecture 7 - Diffraction]({{ site.url }}/notes/Y1/O&W/O/L7.pdf)
+  - [Lecture 8 - Far-field Diffraction]({{ site.url }}/notes/Y1/O&W/O/L8.pdf)
+  - [Lecture 9 - Fourier Optics]({{ site.url }}/notes/Y1/O&W/O/L9.pdf)
   - Lecture 10 - Resolution
   - Lecture 11 - Imaging Quality
   - Lecture 12 - Interferometry
