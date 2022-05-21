@@ -3,19 +3,5 @@ layout: page
 title: Revision Notes
 ---
 - **Imperial Physics**
-  - Year 1
-    - [Mechanics & Relativity]({{ site.url }}/notes/Y1/M&R/index)
-    - [Oscillations & Waves]({{ site.url }}/notes/Y1/O&W/index)
-    - [Electricity & Magnetism]({{ site.url }}/notes/Y1/E&M/index)
-    - [Mathematical Analysis]({{ site.url }}/notes/Y1/MA/index)
-  - Year 2
-    - Thermal Physics
-    - Electromagnetism
-    - Quantum Mechanics
-    - Mathematical Methods
-  - Year 3
-    - Solid State Physics
-    - Particle Physics
-    - Advanced Classical Physics
+  - [Year 1]({{ site.url }}/notes/Y1/Y1)
 - [**Geometric Algebra**]({{ site.url}}/notes/Geometric_Algebra/index)
-- [**Mathematical Structures**]({{ site.url }}/notes/Mathematical_Structures/index)
