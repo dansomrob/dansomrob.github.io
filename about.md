@@ -18,5 +18,5 @@ My name is Daniel Somerville Roberts, I am currently studying for a MSci in Phys
 ### Past Projects
 * 4x4inschools
   * During our first year we won nationals, second year lost badly.
-* [3 Minutes to Freedom]({{ site.url }}/icarus_review)
+* 3 Minutes to Freedom
   * Designed a card game with a good friend.
