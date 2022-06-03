@@ -2,15 +2,9 @@
 layout: default
 title: Hidden Journal
 ---
-# Looking Back at Icarus
-
-So, during high school me and a good friend Sam designed a card game. We were always doing projects - for example we did lego stop motion (strictly come dancing cum star wars). Our largest one would probably by 3 Minutes.
-
-As I'm now in the process of shutting Icarus Down it seems like a brilliant time to reflect on what happened.
-
 # Aims & Goals
 
-*Easter 2022*
+*Summer 2022*
 
 ### Introduction
 
@@ -37,26 +31,6 @@ I know that I don't want to meet my future partner online.
 
 >Some ten years ago, I found myself in an after-dinner conversation, lubricated by wine, with an American who had been educated at an Ivy League college and was then teaching in Europe. As our conversation drifted toward matters of life, marriage and children, I was initially surprised by his statement that whoever he had married, the outcome in terms of where they lived, what type of house they owned, what kind of holidays and entertainment they would enjoy, and even what colleges their children would attend would be practically the same. His reasoning was as follows: “**When I went to [Ivy League institution], I knew that I would marry a woman I met there. Women also knew the same thing. We all knew that our pool of desirable marriage candidates would never be as vast again. And then whomever I married would be a specimen of the same genre: They were all well-educated, smart women who came from the same social class, read the same novels and newspapers, dressed the same, had the same preferences about restaurants, hiking, places to live, cars to drive and people to see, as well about how to take care of the kids and what schools they should attend. It really made almost no difference socially whom among them I married.**” Article by [Branko Milanovic](https://quillette.com/2019/10/18/rich-like-me-how-assortative-mating-is-driving-income-inequality/)
 
-### The Immediate Future: Summer Term
-
-There are some positive things that have happened to build one so far. I enjoy playing lacrosse and jitsu, improving both is important.
-
-#### Jitsu
-
-The role of president for jitsu is great. I want to be the best president for quite a few years.
-
-> *ometimes you do have to fight. Where that’s true, you should fight and win. There is no middle ground: either don’t throw any punches, or strike hard and end it quickly.* Thiel
-
-#### Lacrosse
-
-There is lots of popular chit-chat about habits that are good for you (gym, etc.). However more fundamental is changing your personality.
-
-During the first term of lacrosse, the captain (Ash) told us about how he started lacrosse at university. He described how about halfway through the term he went from it being a chore to go to training to being excited to go. I believe that he changed to include lacrosse as part of his personality.
-
-This is when peer pressure can actually be positive. I have felt this multiple times so far. There have been multiple times where I don't really want to go to training but I end up going due to peer pressure I've put myself under. By telling friends and family that I was playing lacrosse, deciding no to go was a failure. And I didn't to be seen failing. Therefore I always ended up going.
-
-I also always enjoyed the training sessions - and often could feel myself improving. However getting to the session was difficult. I want to begin going to S&C on Fridays and Sports Nights on Wednesdays and get further into the sport.
-
 ### Lemmings
 
 > Elite students climb confidently until they reach a level of competition sufficiently intense to beat their dreams out of them. Higher education is the place where people who had big plans in high school get stuck in **fierce rivalries with equally smart peers over conventional careers** like management consulting and investment banking.
@@ -80,11 +54,15 @@ This is wrong. Your job is an integral part of you. It is how you meaningfully c
 
 > At college, model students obsessively hedge their futures by assembling a suite of exotic and minor skills. Every university believes in “excellence,” and hundred- page course catalogs arranged alphabetically according to arbitrary departments of knowledge seem designed to reassure you that “it doesn’t matter what you do, as long as you do it well.” That is completely false. **It does matter what you do. You should focus relentlessly on something you’re good at doing, but before that you must think hard about whether it will be valuable in the future**.
 
-# My first two terms at Imperial
+### My? Goals
 
-*Easter 2022*
 
-### Looking Back: School
+
+# My first year at Imperial
+
+*Summer 2022*
+
+### Pre-University: School
 
 Looking back at my school time, I was very privileged. I grew up in the nicest part of the North East and went to the best school in the North East.
 
@@ -113,6 +91,16 @@ My diet this term has been poor. I have been eating mostly ultra-processed foods
 hiding diet
 
 less social
+
+### Summer Term
+
+This term my behaviour was far more me-like. I've found a good 'holding-pattern'. I've got a group of friends I like to spend time with an some extra-curricular activities (Jitsu, less lax this term).
+
+I've drank a lot less. Unless there is significant social pressure (out with lacrosse team) I mostly don't drink when out with other people.
+
+### Next Year...
+
+SO
 
 # 2021 - A Year in Review
 

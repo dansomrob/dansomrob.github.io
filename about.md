@@ -12,9 +12,11 @@ My name is Daniel Somerville Roberts, I am currently studying for a MSci in Phys
 ### Current Projects
 * This Website
   * For personal use mainly.
+* [Physics Lab]({{ site.url }}/lab)
+  * Doing cool sh*t
 
 ### Past Projects
 * 4x4inschools
   * During our first year we won nationals, second year lost badly.
-* 3 Minutes to Freedom
+* [3 Minutes to Freedom]({{ site.url }}/icarus_review)
   * Designed a card game with a good friend.
