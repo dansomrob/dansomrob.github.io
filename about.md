@@ -5,9 +5,7 @@ title: About
 
 My name is Daniel Somerville Roberts, I am currently studying for a BSc in Physics at *Imperial College London*. This is my personal website hosted via GitHub Pages. It contains notes for my undergraduate degree, some essays and other tidbits.
 
-### Curriculum Vitae
-* **November 2021** Began undergraduate studies at Imperial College.
-* **August 2021** Graduated from secondary school.
+I have [a page]({{ site.url }}/books) which lists some of my favourite books.
 
 ### Current Projects
 * This Website

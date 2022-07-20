@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Great Books
 ---
 Book links are to my overview of the book (internal). Article links are to the article (external).
