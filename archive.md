@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Post Archive
+title: Essays
 order: 1
 ---
 
