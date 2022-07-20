@@ -1,11 +1,16 @@
 ---
-layout: default
-title: Physics Lab
+layout: page
+title: Laboratory
 ---
-# Personal Physics Lab!
+# Physics Experiments
 
-I need a new project! So I want to build my conduct own physics experiments!
+This contains notebooks for some experiments I have done.
 
-Currently I'm completing our first year lab project, we're exploring the properties of electrons produced via thermionic emission.
+## Electronics
 
-So, let's steal some equipment from labs, build our own and start building cool sh*t.
+* [Playing with a Raspberry Pi - DD/MM/YY]()
+* [555 timer - DD/MM/YY]()
+
+## Optics
+
+* [Interferometer - DD/MM/YY]()

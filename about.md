@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-My name is Daniel Somerville Roberts, I am currently studying for a MSci in Physics at *Imperial College London*. This is my personal website hosted via GitHub Pages. It contains notes for my undergraduate degree, some essays and other tidbits.
+My name is Daniel Somerville Roberts, I am currently studying for a BSc in Physics at *Imperial College London*. This is my personal website hosted via GitHub Pages. It contains notes for my undergraduate degree, some essays and other tidbits.
 
 ### Curriculum Vitae
 * **November 2021** Began undergraduate studies at Imperial College.
@@ -13,7 +13,6 @@ My name is Daniel Somerville Roberts, I am currently studying for a MSci in Phys
 * This Website
   * For personal use mainly.
 * [Physics Lab]({{ site.url }}/lab)
-  * Doing cool sh*t
 
 ### Past Projects
 * 4x4inschools
