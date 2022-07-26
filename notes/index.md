@@ -2,6 +2,7 @@
 layout: default
 title: Revision Notes
 ---
-- **Imperial Physics**
-  - [Year 1]({{ site.url }}/notes/Y1)
-- [**Geometric Algebra**]({{ site.url}}/notes/Geometric_Algebra)
+- [**First Year**]({{ site.url }}/notes/Y1)
+- **Second Year**
+- **Third Year**
+- [**Geometry**]({{ site.url}}/notes/Geometric_Algebra)
