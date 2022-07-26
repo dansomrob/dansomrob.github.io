@@ -5,8 +5,6 @@ title: Geometric Algebra
 
 # Geometry
 
-I'm going to attempt to teach my-self differential geometry to a reasonable standard.
-
 ### Textbooks
 
 * Keenan Crane's discrete differential geometry [course notes]({{ site.url }}/notes/Geometry/DDG.pdf)

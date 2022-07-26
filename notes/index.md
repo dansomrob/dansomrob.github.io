@@ -13,4 +13,4 @@ title: Revision Notes
 
 ### Self-Taught
 
-- [Geometry]({{ site.url}}/notes/Geometric_Algebra)
+- [Geometry]({{ site.url}}/notes/Geometry)
