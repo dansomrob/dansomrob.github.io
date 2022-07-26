@@ -7,4 +7,4 @@ My name is Daniel Somerville Roberts, I am currently studying for a BSc in Physi
 
 I have [notes]({{ site.url }}/notes) from my undergraduate degree (BSc Physics) stored on here. NB they are my professors' notes, not mine.
 
-I also have a list of some of my [favourite books]({{ site.url }}/books) on here, some have reviews of there primary ideas. There are also some articles I've really liked.
+I also have a list of some of my [favourite books]({{ site.url }}/books) on here, some have reviews of their primary ideas. There are also some articles I've really liked.
