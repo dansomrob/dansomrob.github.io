@@ -7,10 +7,10 @@ title: Revision Notes
 
 ### Imperial Physics
 
-- [**First Year**]({{ site.url }}/notes/Y1)
-- **Second Year**
-- **Third Year**
+- [First Year]({{ site.url }}/notes/Y1)
+- Second Year
+- Third Year
 
 ### Self-Taught
 
-- [**Geometry**]({{ site.url}}/notes/Geometric_Algebra)
+- [Geometry]({{ site.url}}/notes/Geometric_Algebra)
