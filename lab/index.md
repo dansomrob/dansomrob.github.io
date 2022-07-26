@@ -2,8 +2,6 @@
 layout: page
 title: Laboratory
 ---
-# Physics Experiments
-
 This contains notebooks for some experiments I have done.
 
 ## Electronics
