@@ -2,10 +2,6 @@
 layout: page
 title: Laboratory
 ---
-##Projects
-
-## Experiments
-
 ### Electronics
 
 * [Playing with a Raspberry Pi - DD/MM/YY]()
