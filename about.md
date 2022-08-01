@@ -5,7 +5,7 @@ title: About
 
 My name is Daniel Somerville Roberts, I am currently studying for a BSc in Physics at *Imperial College London*. This is my personal website hosted via GitHub Pages.
 
-My [Curriculum Vitae]({{ site.url}}/about/CV/pdf)
+My [Curriculum Vitae]({{ site.url}}/CV/pdf)
 
 This website contains some essays about my personal thoughts, things I find interesting, etc. It also has lab-books from some personal experiments.
 
