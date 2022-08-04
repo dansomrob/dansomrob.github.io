@@ -5,7 +5,6 @@ title: Laboratory
 ### Electronics
 
 * [Matchbox Radio - DD/MM/YY]()
-* [Discrete Electronics - DD/MM/YY]()
 
 ### Optics
 
