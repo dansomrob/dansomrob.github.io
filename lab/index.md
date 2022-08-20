@@ -5,6 +5,7 @@ title: Laboratory
 ### Electronics
 
 * [Matchbox Radio - DD/MM/YY]()
+* [Microprocessors - DD/M/YY]({{ site.url }}/lab/micro)
 
 ### Optics
 
