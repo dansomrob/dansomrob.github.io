@@ -2,17 +2,19 @@
 layout: page
 title: Laboratory
 ---
+Links are to github repositories, these contain a README.md which contain project explanations.
+
 ### Electronics
 
-* [Matchbox Radio - DD/MM/YY]()
-* [MCUs & FPGAs - DD/MM/YY]()
+* [Matchbox Radio](https://github.com/dansomrob/Matchbox_Radio)
+* Analog Electronics
+* [PIC MCUs, Linux, and C](https://github.com/dansomrob/Microprocessors)
 
 ### Optics
 
-* [Silicon Photonics - DD/MM/YY]
-* [Interferometer - DD/MM/YY]()
-* [The Real Double Slit Experiment - DD/MM/YY]()
+* [Silicon Photonics](https://github.com/dansomrob/Silicon_Photonics)
+* Interferometer
 
 ### Electromagnetism
 
-* [Ionocraft - DD/MM/YY]()
+* Ionocraft
