@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Year 1
+title: Notes
 ---
 # Year 1
 
