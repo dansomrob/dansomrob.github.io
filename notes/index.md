@@ -32,6 +32,8 @@ title: Notes
 # Year 2
 
 - PHYS50001 Practical Physics
+  - [Lab Scripts]({{ site.url }}/notes/Y2/lab.pdf)
+  - [Computing Notebooks]({{ site.url }}/notes/Y2/comp)
 
 - PHYS50002 Thermal Physics & Structure of Matter
   - [Structure of Matter]({{ site.url }}/notes/Y2/TP/SoM.pdf)
