@@ -5,11 +5,11 @@ title: Great Books
 Book links are to my overview of the book (internal). Article links are to the article (external).
 ## Great Books
 
-- [Critical Transitions in Nature and Society]({{ site.url }}/books/crit-trans) by *Marten Scheffer*
+- Critical Transitions in Nature and Society by *Marten Scheffer*
 - Secular Cycles by *Peter Turchin*
-- [Alpha Brain]({{ site.url }}/books/alphabrain) by *Stephen Duneier*
-- [The Selfish Gene]({{ site.url }}/books/selfish-gene) by *Richard Dawkins*
-- [Chimpanzee Politics]({{ site.url }}/books/chimp-polit) by *Frans de Waal*
+- Alpha Brain by *Stephen Duneier*
+- The Selfish Gene by *Richard Dawkins*
+- Chimpanzee Politics by *Frans de Waal*
 - The Strangest Man: The Hidden Life of Paul Dirac, Quantum Genius by *Graham Farmelo*.
 - Is Water H<sub>2</sub>0? Evidence, Realism and Pluralism by *Hasok Chang*.
 - Shredded: Inside RBS, The Bank That Broke Britain by *Ian Fraser*

@@ -31,7 +31,7 @@ title: Notes
 
 # Year 2
 
-- PHYS50001 Practical Physics
+- PHYS50001 Advanced Practical Physics
   - [Lab Scripts]({{ site.url }}/notes/Y2/lab.pdf)
   - [Computing Notebooks]({{ site.url }}/notes/Y2/comp)
 
@@ -49,6 +49,9 @@ title: Notes
   - [Quantum Physics]({{ site.url }}/notes/Y2/QP/QP.pdf)
   - [Quantum Mechanics]({{ site.url }}/notes/Y2/QP/QM.pdf)
   - [Atomic Physics]({{ site.url }}/notes/Y2/QP/AP.pdf)
+
+- PHYS50006 Environmental Physics
+  - [Environmental Physics]({{ site.url }}/notes/Y2/EP.pdf)
 
 - PHYS50007 Mathematical Methods
   - [Mathematical Methods]({{ site.url }}/notes/Y2/MM.pdf)
