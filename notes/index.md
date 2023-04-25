@@ -24,8 +24,6 @@ title: Notes
   - [Magnetism]({{ site.url }}/notes/Y1/E&M/M.pdf)
 - PHYS40005 Statistics and the Summer Project
   - [Statistics]({{ site.url }}/notes/Y1/stats.pdf)
-- PHYS40006 Advanced Electronics
-  - [Advanced Electronics]({{ site.url }}/notes/Y1/AE.pdf)
 - PHYS40007 Mathematical Analysis
   - [Mathematical Analysis]({{ site.url }}/notes/Y1/MA.pdf)
 
@@ -50,8 +48,26 @@ title: Notes
   - [Quantum Mechanics]({{ site.url }}/notes/Y2/QP/QM.pdf)
   - [Atomic Physics]({{ site.url }}/notes/Y2/QP/AP.pdf)
 
-- PHYS50006 Environmental Physics
-  - [Environmental Physics]({{ site.url }}/notes/Y2/EP.pdf)
+- PHYS50006 Suns, Stars & Planets
+  - [Suns, Stars & Planets]({{ site.url }}/notes/Y2/SSP.pdf)
 
 - PHYS50007 Mathematical Methods
   - [Mathematical Methods]({{ site.url }}/notes/Y2/MM.pdf)
+
+# Year 3
+
+- PHYS60001 Nuclear & Particle Physics
+
+- PHYS60002 Comprehensives
+
+- PHYS60003 Solid State Physics
+
+- PHYS60004 Third Year Physics Lab
+
+- PHYS60005 Advanced Classical Physics
+
+- PHYS60011 Foundations of Quantum Mechanics
+
+- PHYS60013 Plasma Physics
+
+- PHYS60016 Year 3 Project
