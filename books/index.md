@@ -2,7 +2,7 @@
 layout: default
 title: Great Books
 ---
-Book links are to my overview of the book (internal). Article links are to the article (external).
+
 ## Great Books
 
 - Critical Transitions in Nature and Society by *Marten Scheffer*
